@@ -1,2 +1,6 @@
 1. How does HTTPS work? What's a CA? What's a self-signed Certificate? [#](https://www.youtube.com/watch?v=T4Df5_cojAs)
 2. Distributed Database System Key Value Store [#](https://www.youtube.com/watch?v=rnZmdmlR-2M)
+3. System Design Basics: Horizontal vs. Vertical Scaling [#](https://www.youtube.com/watch?v=xpDnVSmNFX0)
+4. Monolith vs Microservices [#](https://www.youtube.com/watch?v=qYhRvH9tJKw)
+5. SQL vs NoSQL [#](https://www.youtube.com/watch?v=xQnIN9bW0og)
+6. Consistent Hashing [#](https://www.youtube.com/watch?v=zaRkONvyGr8&pbjreload=10), [better](https://www.youtube.com/watch?v=bBK_So1u9ew)
