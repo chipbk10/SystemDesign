@@ -11,6 +11,7 @@
 # Watch:
 
 1. Step by step guide system design [#](https://www.youtube.com/watch?v=bUHFg8CZFws)
+2. System Design Interview Concepts [#](https://www.youtube.com/watch?v=REB_eGHK_P4)
 
 # Experience:
 #### Anatomy of a system design [#](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
