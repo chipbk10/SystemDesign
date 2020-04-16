@@ -12,6 +12,7 @@
 
 1. Step by step guide system design [#](https://www.youtube.com/watch?v=bUHFg8CZFws)
 2. System Design Interview Concepts [#](https://www.youtube.com/watch?v=REB_eGHK_P4)
+3. Distributed cache [#](https://www.youtube.com/watch?v=iuqZvajTOyA)
 
 # Terms:
 
