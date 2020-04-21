@@ -4,7 +4,7 @@
 2. Design a Code-Deployment system [#](https://www.youtube.com/watch?v=q0KGYwNbf-0)
 3. Design Autocomplete or Typeahead Suggestions for Google search [#](https://www.youtube.com/watch?v=us0qySiUsGU)
 4. Design messaging/chat service like Facebook Messenger or Whatsapp [#](https://www.youtube.com/watch?v=zKPNUMkwOJE)
-
+5. Design a notification service [#](https://www.youtube.com/watch?v=bBTPZ9NdSk8)
 
 # To Read:
 
@@ -17,7 +17,7 @@
 
 # Terms:
 
-load-balancing [#](), Caching [#](), Database schema design [#](), Slave-master replications [#](), Database sharding [#](), API design [#]()
+load-balancing [#](), Caching [#](), Database schema design [#](), Slave-master replications [#](), Database sharding [#](), API design [#](), API Gateway [#](https://www.youtube.com/watch?v=vHQqQBYJtLI)
 
 # Experience:
 #### Anatomy of a system design [#](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
