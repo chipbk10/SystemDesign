@@ -5,6 +5,8 @@
 3. Design Autocomplete or Typeahead Suggestions for Google search [#](https://www.youtube.com/watch?v=us0qySiUsGU)
 4. Design messaging/chat service like Facebook Messenger or Whatsapp [#](https://www.youtube.com/watch?v=zKPNUMkwOJE)
 5. Design a notification service [#](https://www.youtube.com/watch?v=bBTPZ9NdSk8)
+6. Design a PasteBin service
+7. Design Instagram
 
 # To Read:
 
