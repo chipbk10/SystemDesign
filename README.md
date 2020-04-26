@@ -19,7 +19,7 @@
 
 # Terms:
 
-load-balancing [#](), Caching [#](), Database schema design [#](), Slave-master replications [#](), Database sharding [#](), API design [#](), API Gateway [#](https://www.youtube.com/watch?v=vHQqQBYJtLI), Object-Storage [#](https://en.wikipedia.org/wiki/Object_storage)
+Load-Balancing [#](), Caching [#](), Database schema design [#](), Slave-master replications [#](), Database sharding [#](), API design [#](), API Gateway [#](https://www.youtube.com/watch?v=vHQqQBYJtLI), Object-Storage [#](https://en.wikipedia.org/wiki/Object_storage), SQL vs No-SQL [#](https://www.geeksforgeeks.org/difference-between-sql-and-nosql/)
 
 # Experience:
 #### Anatomy of a system design [#](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
