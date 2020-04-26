@@ -7,6 +7,7 @@
 5. Design a notification service [#](https://www.youtube.com/watch?v=bBTPZ9NdSk8)
 6. Design a PasteBin service
 7. Design Instagram
+8. Design Dropbox
 
 # To Read:
 
