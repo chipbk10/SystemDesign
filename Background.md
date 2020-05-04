@@ -5,3 +5,4 @@
 5. SQL vs NoSQL [#](https://www.youtube.com/watch?v=xQnIN9bW0og)
 6. Hashing [#](https://www.interviewcake.com/concept/python/hashing?)
 7. Consistent Hashing [#](https://www.youtube.com/watch?v=zaRkONvyGr8&pbjreload=10), [better](https://www.youtube.com/watch?v=bBK_So1u9ew) [better](https://www.interviewcake.com/concept/java/consistent-hashing)
+8. CDN [#](https://www.youtube.com/watch?v=Bsq5cKkS33I)
