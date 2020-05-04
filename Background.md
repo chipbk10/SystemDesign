@@ -3,4 +3,4 @@
 3. System Design Basics: Horizontal vs. Vertical Scaling [#](https://www.youtube.com/watch?v=xpDnVSmNFX0)
 4. Monolith vs Microservices [#](https://www.youtube.com/watch?v=qYhRvH9tJKw)
 5. SQL vs NoSQL [#](https://www.youtube.com/watch?v=xQnIN9bW0og)
-6. Consistent Hashing [#](https://www.youtube.com/watch?v=zaRkONvyGr8&pbjreload=10), [better](https://www.youtube.com/watch?v=bBK_So1u9ew)
+6. Consistent Hashing [#](https://www.youtube.com/watch?v=zaRkONvyGr8&pbjreload=10), [better](https://www.youtube.com/watch?v=bBK_So1u9ew) [better](https://www.interviewcake.com/concept/java/consistent-hashing)
