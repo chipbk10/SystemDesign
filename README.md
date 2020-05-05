@@ -27,6 +27,7 @@
 2. System Design Interview Concepts [#](https://www.youtube.com/watch?v=REB_eGHK_P4)
 3. Distributed cache [#](https://www.youtube.com/watch?v=iuqZvajTOyA)
 4. Top K problem [#](https://www.youtube.com/watch?v=kx-XDoPjoHw)
+5. Distributed in one lesson [#](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 
 # Terms:
 
