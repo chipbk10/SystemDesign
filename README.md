@@ -28,6 +28,7 @@
 3. Distributed cache [#](https://www.youtube.com/watch?v=iuqZvajTOyA)
 4. Top K problem [#](https://www.youtube.com/watch?v=kx-XDoPjoHw)
 5. Distributed in one lesson [#](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+6. Four Distributed Systems Architecture Patterns [#](https://www.youtube.com/watch?v=tpspO9K28PM)
 
 # Terms:
 
