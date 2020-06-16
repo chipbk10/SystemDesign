@@ -1,6 +1,6 @@
 # Topics [#](https://www.educative.io/courses/grokking-the-system-design-interview)
 
-1. Design a URL Shortening service like TinyURL [#](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR) [#](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
+1. Design a URL Shortening service like TinyURL [#](https://www.youtube.com/watch?v=JQDHz72OA3c&t=1572s) [#](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR) [#](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 2. Design a Code-Deployment system [#](https://www.youtube.com/watch?v=q0KGYwNbf-0)
 3. Design Autocomplete or Typeahead Suggestions for Google search [#](https://www.youtube.com/watch?v=us0qySiUsGU)
 4. Design messaging/chat service like Facebook Messenger or Whatsapp [#](https://www.youtube.com/watch?v=zKPNUMkwOJE)
