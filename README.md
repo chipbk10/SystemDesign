@@ -44,6 +44,7 @@ Master-Slave Configuration [MySQL](https://www.youtube.com/watch?v=JXDuVypcHNA) 
 #### 5 tips for system design interview [#](https://www.youtube.com/watch?v=CtmBGH8MkX4)
 #### 8 things you need to know before system design interview [#](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 #### Netflix what happens when you press play? [#](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
+#### Facebook [#](https://leetcode.com/discuss/interview-experience/698005/NDA-Facebook-or-E4E5-or-London-or-Jun-2020-Pending)
 
 # Reference:
 #### awesome scalability [#](https://github.com/binhnguyennus/awesome-scalability)
