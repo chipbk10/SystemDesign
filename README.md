@@ -22,6 +22,7 @@
 # To Read:
 
 1. Mobile System Design Interview [#](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b)
+2. How to design an app will infinitive scroll? [#](https://developer.apple.com/videos/play/wwdc2011/104/)
 
 # Watch:
 
