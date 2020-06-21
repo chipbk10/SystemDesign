@@ -21,6 +21,8 @@
 
 # To Read:
 
+1. Mobile System Design Interview [#](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b)
+
 # Watch:
 
 1. Step by step guide system design [#](https://www.youtube.com/watch?v=bUHFg8CZFws)
