@@ -23,6 +23,7 @@
 
 1. Mobile System Design Interview [#](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b) [#](https://blog.usejournal.com/mobile-system-design-interviews-ios-and-android-f5d360292c22) [#](https://leetcode.com/discuss/interview-question/691010/System-Design-for-Mobile-App-Developers)
 2. How to design an app will infinitive scroll? [#](https://developer.apple.com/videos/play/wwdc2011/104/)
+3. [Summary](https://github.com/lzl124631x/system-design)
 
 # Watch:
 
