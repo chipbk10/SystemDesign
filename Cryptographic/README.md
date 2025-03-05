@@ -1,1 +1,1 @@
-1. What is a [digital signature]?
+1. What is a [digital signature]()?
