@@ -1,5 +1,6 @@
 I. **What is https?**
 - `https` is a secured version of http that ensures data exchanged between a client (e.g., browser, mobile app) and a server is encrypted and protected
+
 II. **How does https work?**
 1. **Handshake Initiation**
 - When we visit an https webiste (e.g., https://example.com), our browser sends a request to the server to start a secure connection
