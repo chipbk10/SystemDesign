@@ -21,17 +21,6 @@ III. **Other questions**
 2. **Where is the symmetric session key stored?**
 - from client-side, the session key is stored in memory (e.g., in iOS app, the session key is stored in URLSession instance)
 - from server-side, the session key might be stored in persistent storage (e.g., relational db) or in distributed cache (e.g., reddis, memcache)
-   
-3. **How can [api-gateway]() forward the second api call to the same server?**
-- First api call:
-  - Client → API Gateway → Server A
-  - TCP connection established, HTTP request sent with Connection: keep-alive.
-  - Server A responds, keeps the connection open.
-
-- Second api call:
-  - Client reuses the same TCP connection to Gateway.
-  - Gateway forwards to Server A (thanks to [sticky sessions]() or [consistent hashing]()).
-  - Server A processes the request over the same TCP socket.
 
 
 
