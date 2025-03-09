@@ -1,1 +1,1 @@
-[https](), [full handshake](), [partial handshake], [load-balancer](), [api-gateway]()
+[https](), [full handshake](), [partial handshake](), [load-balancer](), [api-gateway]()
