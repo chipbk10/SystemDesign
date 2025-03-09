@@ -1,9 +1,10 @@
 # System Design
 
-1. How does https work? [https]()
-2. How to avoid handshake overhead for subsequent https requests? [keep-alive]()
-3. How to resume previous https session without doing a full handshake? [partial handshake]()
-4. How to route the subsequent https request to the same server? [sticky session]()
+1. How does https work? [https](https://github.com/chipbk10/SystemDesign/blob/master/https.md), [handshake]()
+2. Where is a shared session key stored? 
+3. How to avoid handshake overhead for subsequent https requests? [keep-alive]()
+4. How to resume previous https session without doing a full handshake? [partial handshake]()
+5. How to route the subsequent https request to the same server? [sticky session]()
 
 ## Cryptographic
 
