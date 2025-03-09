@@ -3,7 +3,7 @@ I. **What is https?**
 
 II. **How does https work?**
 1. **Handshake Initiation**
-- When we visit an https webiste (e.g., https://example.com), our browser sends a request to the server to start a secure connection
+- When we visit an https webiste, our browser sends a request to the server to start a secure connection
 2. **SSL/TLS Certificate**
 - The server responds by sending its SSL/TLS [certificate](), which include its public key and proof of its identity (verified by a trusted Certificate Authority - CA)
 3. **Verification**
