@@ -1,4 +1,4 @@
-I. **Why's bother?**
+I. **Why bother?**
 - Each time, we call a https request, the ssl/tls handshake happens. Note that the handshake is expensive, and it causes latency.
 
 II. **How to avoid ssl/tls handshake overhead for subsequent https requests?**
