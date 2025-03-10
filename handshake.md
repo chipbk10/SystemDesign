@@ -12,5 +12,7 @@ II. **ServerHello**
 4. session ID (optional), to avoid a full handshake (< TLS 1.2)
 
 III. **Verify Server Certificate**
+
 IV. **Exchange Symmetric Session Key**
+
 V.**Finished**
