@@ -16,7 +16,7 @@ II. **How to resume previous session without key exchange and certificate valida
 2. **Session Ticket** (TLS 1.2, 1.3)
    
   - Full Handshake:
-    - Client and server use ECDHE → **master secret** which is used to generate session key & psk
+    - Client and server use ECDHE → **master secret** which is used to generate session key & PSK
     - **Both derive the same resumption PSK from the master secret**.
     - Server encrypts PSK into a session ticket and sends it to the client.
     - Client stores the ticket and the PSK it calculated.
@@ -25,6 +25,7 @@ II. **How to resume previous session without key exchange and certificate valida
     - Client sends the ticket and a **binder** (made with its stored PSK).
     - Server decrypts the ticket, gets the PSK, checks the binder.
     - Both use the PSK (client from memory, server from ticket) to resume.
+    - **Then both use this PSK to generate a new session key**
 
 - The pros is the server becomes stateless. We can still resume the previous session despite server reboots.
 - The cons is more bandwidth (SessionTicket > SessionID), more delay (to encrypt & decrypt SessionTicket). Eviction requires maintaining a blacklist of unwanted sessions, which must be stored persistently and checked during resumption.
