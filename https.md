@@ -19,7 +19,7 @@ III. **Other questions**
 - via http `keep-alive`, both calls can reuse the same tcp connection, and share the same session key
   
 2. **Where is the symmetric session key stored?**
-- from client-side, the session key is stored in memory (e.g., in iOS app, the session key is stored in URLSession instance)
+- from client-side, the session key is stored in memory (e.g., in iOS app, the session key is stored in URLSession instance, in web-app, stored in browser memory)
 - from server-side, the session key might be stored in persistent storage (e.g., relational db) or in distributed cache (e.g., reddis, memcache)
 
 
