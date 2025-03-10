@@ -16,8 +16,11 @@
 - **L**:
 [load-balancer]()
 
+- **M**:
+[master key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
+
 - **P**:
-[partial handshake]()
+[partial handshake](), [pre-shared key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
 
 - **S**:
 [signature](), [ssl-pinning](), [sticky-session]()
