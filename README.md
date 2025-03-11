@@ -5,6 +5,7 @@
 3. How to avoid handshake overhead for subsequent https requests? [keep-alive](https://github.com/chipbk10/SystemDesign/blob/master/keep-alive.md)
 4. How to resume previous https session without doing a full handshake? [partial handshake](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
 5. How to route the subsequent https request to the same server? [sticky session](https://github.com/chipbk10/SystemDesign/blob/master/sticky-session.md)
+6. How does login work? [access_token](), [jwt](), [authenticate]()
 
 ## Cryptographic
 
