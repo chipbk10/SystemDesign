@@ -1,5 +1,6 @@
 I. **What is ssl-pinning?**
 - ssl-pinning or certificate pinning, is a security technique used in applications (especially mobile apps) to ensure that they only communicate with a server using a specific, trusted SSL/TLS certificate or public key.
+- without ssl-pinning, the tls handshake only proves that **the certificate (associates with a sepcific domain)** comes from a trusted CA, but might not from the server we want to contact with.
 
 II. **Why is ssl-pinning needed in mobile app?**
 - CA can be compromised (rarely, but might happen), or out of date in a specific mobile OS 
