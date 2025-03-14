@@ -1,5 +1,5 @@
 - **A**:
-[api-gateway]()
+[api-gateway](), [access token]()
 
 - **C**:
 [certificate]()
@@ -10,11 +10,14 @@
 - **H**:
 [https]()
 
+- **J**:
+[jwt token]()
+
 - **K**:
 [keep-alive]()
 
 - **L**:
-[load-balancer]()
+[load-balancer](), [login]()
 
 - **M**:
 [master key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
@@ -22,7 +25,10 @@
 - **P**:
 [partial handshake](), [pre-shared key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
 
+- **R**:
+[refresh token]()
+
 - **S**:
-[signature](), [ssl-pinning](), [sticky-session]()
+[signature](), [ssl-pinning](), [sticky-session](), [session id](), [session token]()
 
 - 
