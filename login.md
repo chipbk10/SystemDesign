@@ -1,7 +1,7 @@
-I. **How does login work in distributed computing world?**
+I. **How does login work?**
 - front-end sends a credential (e.g., username + hashed-password) to server
-- server check if the credential valids, then returns a `session id` or a `session token` (or `access token`) to represent the authenticated user
-- front-end puts this token in the browser cookie for later use
+- server check if the credential valids, then returns either a `session id` or a `session token` to represent the authenticated user
+- front-end store the `session id` in the browser cookie, or the `session token` in local/session storage for later use
 
 II. **Session ID**:
 - A random, unique identifier tied to a server-side **session store**. Based on this `session token` (or session id), the server can look up in the session store for user-id for example.
