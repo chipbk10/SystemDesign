@@ -1,5 +1,6 @@
-I.**How refresh tokens are managed**:
-- **Purpose**: a refresh token is a long-lived token (e.g., valids for days or weeks) used to obtain new access tokens without requiring the user to re-enter credentials
+I.**Purpose**:
+- a refresh token is a long-lived token (e.g., valids for days or weeks) used to obtain new access tokens without requiring the user to re-enter credentials
+- a refresh token is just a random and unique string
 
 II. **Steps to Revoke a Refresh Token Server-Side**:
 1. **Login**
