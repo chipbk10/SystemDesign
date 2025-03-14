@@ -1,7 +1,7 @@
 I.**Login**:
 - Login with credential (username & password), server returns:
   - an [jwt]() access token (user info, short expiration time, signature)
-  - an refresh token (just a random unique string that is linked to server user data)
+  - an [refresh token]() (just a random unique string that is linked to server user data)
 - Pros:
   - stateless, scalable, working in distributed system (microservices)
   - costs less resources from server-side
