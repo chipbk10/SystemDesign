@@ -23,12 +23,12 @@
 [master key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
 
 - **P**:
-[partial handshake](), [pre-shared key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
+[partial handshake](), [pre-shared key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](), [password]()
 
 - **R**:
 [refresh token]()
 
 - **S**:
-[signature](), [ssl-pinning](), [sticky-session](), [session id](), [session token]()
+[signature](), [ssl-pinning](), [sticky-session](), [session id](), [session token](), [salt]()
 
 - 
