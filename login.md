@@ -1,5 +1,5 @@
 I. **How does login work?**
-- front-end sends a credential (e.g., username + hashed-password) to server
+- front-end sends a credential (e.g., username + **plain text** password) to server
 - server check if the credential valids, then returns either a `session id` or a `session token` to represent the authenticated user
 - front-end store the `session id` in the browser cookie, or the `session token` in local/session storage for later use
 
