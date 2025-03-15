@@ -3,30 +3,9 @@ I. **How does login work?**
 - server check if the credential valids, then returns either a `session id` or a `session token` to represent the authenticated user
 - front-end store the `session id` in the browser cookie, or the `session token` in local/session storage for later use
 
-II. **Session ID**:
-- A random, unique identifier tied to a server-side **session store**. Based on this `session token` (or session id), the server can look up in the session store for user-id for example.
-  - Pros:
-    - low bandwidth (just a string) in comparison with `session token` (contains user info, signature)
-    - easy logout or invalidate a session, just deleting this session from session-store of server-side
-    - no need to encrypt or sign as the session token doesn't contain sensitive data, just a random meaningless string  
-  - Cons:
-    - Storing session data for many users can consume significant memory or database resources
-    - Maintaining a shared session store across services can be cumbersome
-    - Each request requires a lookup, update expiration date, adding latency
-      
-- **Refresh a session**: for each request, the server updates the expiration time (e.g., resets it to 30 minutes from now).
-  - Pros: Seamless for users; keeps active sessions alive.
-  - Cons: Requires a write operation per request, increasing server load slightly.
+II. **[Session ID](https://github.com/chipbk10/SystemDesign/blob/master/login-session-id.md)**:
 
-III. **Access Token**:
-- [jwt token]() = encoded(header).encoded(payload).signature
-- payload contains info about user (e.g., user-id, expiration date)
-- logout:
-  - just delete the token from client-side
-  - or put this token in a blacklist.
-- Pros: @Todo
-- Cons: @Todo
-- **Refresh a session**:
+III. **[Session Token](https://github.com/chipbk10/SystemDesign/blob/master/login-session-token.md)**:
 
 IV. **In Reality**
 - In reality, modern app (FB, Twitter, Google, etc.) use a hibrid approach
