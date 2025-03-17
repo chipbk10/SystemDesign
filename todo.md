@@ -1,3 +1,5 @@
-- circuit breaker
+- circuit breaker [Done]
 - oauth
 - stikcy session
+- resilience
+- fault tolerance
