@@ -7,6 +7,12 @@
 5. How to route the subsequent https request to the same server? [sticky session](https://github.com/chipbk10/SystemDesign/blob/master/sticky-session.md)
 6. How does login work? [session_token](https://github.com/chipbk10/SystemDesign/blob/master/authenticate.md), [access_token](https://github.com/chipbk10/SystemDesign/blob/master/authenticate.md), [jwt](https://github.com/chipbk10/SystemDesign/blob/master/jwt.md), [authenticate](https://github.com/chipbk10/SystemDesign/blob/master/authenticate.md), [password](https://github.com/chipbk10/SystemDesign/blob/master/password.md)
 
+## Handle Failures
+
+1. How would you design your API to handle unreliable downstream services and ensure it remains responsive and reliable for users? [circuit breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [resilience]()
+
+
+
 ## Cryptographic
 
 1. How to ensure that a message received over https is not altered and comes from a trusted source? [signature](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/signature.md), [certificate](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/certificate.md)
