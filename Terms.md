@@ -2,10 +2,10 @@
 [api-gateway](), [access token]()
 
 - **C**:
-[certificate]()
+[certificate](), [circuit breaker]()
 
 - **F**:
-[full handshake]()
+[full handshake](), [fault tolerance]()
 
 - **H**:
 [https]()
@@ -26,7 +26,7 @@
 [partial handshake](), [pre-shared key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](), [password]()
 
 - **R**:
-[refresh token]()
+[refresh token](), [resilience]()
 
 - **S**:
 [signature](), [ssl-pinning](), [sticky-session](), [session id](), [session token](), [salt]()
