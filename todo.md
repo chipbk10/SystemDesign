@@ -9,3 +9,4 @@
 - circuit breaker [Done]
 - failover & retries strategies
 - rate limiting
+- service mesh (a sidecar proxy)
