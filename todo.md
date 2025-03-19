@@ -6,7 +6,7 @@
 
 - resilience
 - fault tolerance
-- circuit breaker [Done]
 - failover & retries strategies
 - rate limiting
-- service mesh (a sidecar proxy)
+- circuit breaker [Done]
+- service mesh (a sidecar proxy) [Done]
