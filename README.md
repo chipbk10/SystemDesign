@@ -10,6 +10,7 @@
 ## Handle Failures
 
 1. How would you design your API to handle unreliable downstream services and ensure it remains responsive and reliable for users? [circuit breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [resilience]()
+2. You’re tasked with designing a microservices-based web application with multiple services that need to communicate with each other. These services are deployed on Kubernetes, and you need to ensure reliable communication, handle failures gracefully, enforce rate limits between services, and monitor traffic without adding significant complexity to the application code. How would you approach this problem, and what tools or strategies would you use to achieve these goals? [service mesh](), [circuit breaker](), [rate limiting](), [resilience]()
 
 
 
