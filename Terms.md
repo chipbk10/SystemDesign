@@ -29,6 +29,6 @@
 [refresh token](), [resilience]()
 
 - **S**:
-[signature](), [ssl-pinning](), [sticky-session](), [session id](), [session token](), [salt]()
+[signature](), [ssl-pinning](), [sticky-session](), [session id](), [session token](), [salt](), [service mesh]()
 
 - 
