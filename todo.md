@@ -1,6 +1,7 @@
 
-- oauth [Done]
-- oidc [Done]
+- oauth [**Done**]
+- oidc [**Done**]
+- sso
 - stikcy session
 - CAP theorem
 - SQL vs NoSQL
@@ -9,5 +10,5 @@
 - fault tolerance
 - failover & retries strategies
 - rate limiting
-- circuit breaker [Done]
-- service mesh (a sidecar proxy) [Done]
+- circuit breaker [**Done**]
+- service mesh (a sidecar proxy) [**Done**]
