@@ -22,8 +22,11 @@
 - **M**:
 [master key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
 
+- **O**:
+[oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc]()
+
 - **P**:
-[partial handshake](), [pre-shared key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](), [password]()
+[partial handshake](), [pre-shared key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](), [password](), [pkce](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md)
 
 - **R**:
 [refresh token](), [resilience]()
