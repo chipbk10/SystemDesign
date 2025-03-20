@@ -1,37 +1,35 @@
 - **A**:
-[api-gateway](), [access token]()
+[api-gateway](https://github.com/chipbk10/SystemDesign/blob/master/api-gateway.md), [access-token](https://github.com/chipbk10/SystemDesign/blob/master/access-token.md)
 
 - **C**:
-[certificate](), [circuit breaker]()
+[certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md)
 
 - **F**:
-[full handshake](), [fault tolerance]()
+[full-handshake](https://github.com/chipbk10/SystemDesign/blob/master/full-handshake.md), [fault-tolerance](https://github.com/chipbk10/SystemDesign/blob/master/fault-tolerance.md)
 
 - **H**:
-[https]()
+[https](https://github.com/chipbk10/SystemDesign/blob/master/https.md)
 
 - **J**:
-[jwt token]()
+[jwt](https://github.com/chipbk10/SystemDesign/blob/master/jwt.md)
 
 - **K**:
-[keep-alive]()
+[keep-alive](https://github.com/chipbk10/SystemDesign/blob/master/keep-alive.md)
 
 - **L**:
-[load-balancer](), [login]()
+[load-balancer](), [login](https://github.com/chipbk10/SystemDesign/blob/master/login.md), [login-session-id](https://github.com/chipbk10/SystemDesign/blob/master/login-session-id.md), [login-session-token](https://github.com/chipbk10/SystemDesign/blob/master/login-session-token.md)
 
 - **M**:
-[master key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
+[master-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
 
 - **O**:
-[oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc]()
+[oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc](https://github.com/chipbk10/SystemDesign/blob/master/oidc.md)
 
 - **P**:
-[partial handshake](), [pre-shared key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](), [password](), [pkce](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md)
+[partial-handshake](), [pre-shared-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [password](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [pkce](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md)
 
 - **R**:
-[refresh token](), [resilience]()
+[refresh-token](https://github.com/chipbk10/SystemDesign/blob/master/refresh-token.md), [resilience](https://github.com/chipbk10/SystemDesign/blob/master/resilience.md)
 
 - **S**:
-[signature](), [ssl-pinning](), [sticky-session](), [session id](), [session token](), [salt](), [service mesh]()
-
-- 
+[signature](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/certificate.md), [ssl-pinning](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/ssl-pinning.md), [sticky-session](https://github.com/chipbk10/SystemDesign/blob/master/sticky-session.md), [salt](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [service-mesh](https://github.com/chipbk10/SystemDesign/blob/master/service-mesh.md)
