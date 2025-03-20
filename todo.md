@@ -1,5 +1,6 @@
 
-- oauth
+- oauth [Done]
+- oidc [Done]
 - stikcy session
 - CAP theorem
 - SQL vs NoSQL
