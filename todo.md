@@ -1,10 +1,10 @@
-
+1. **Authentication**
 - oauth [**Done**]
 - oidc [**Done**]
 - sso
-- stikcy session
-- CAP theorem
-- SQL vs NoSQL
+- saml
+
+2. **Handle Failures**
 
 - resilience
 - fault tolerance
@@ -12,3 +12,10 @@
 - rate limiting
 - circuit breaker [**Done**]
 - service mesh (a sidecar proxy) [**Done**]
+
+3. **Others**
+- stikcy session
+- CAP theorem
+- SQL vs NoSQL
+
+
