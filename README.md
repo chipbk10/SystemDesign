@@ -14,7 +14,7 @@
 
 
 
-## Cryptographic
+## Security
 
 1. How to ensure that a message received over https is not altered and comes from a trusted source? [signature](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/signature.md), [certificate](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/certificate.md)
 2. How does ssl-pinning enhance mobile app security? [ssl-pinning](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/ssl-pinning.md)
