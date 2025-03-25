@@ -2,7 +2,7 @@
 [api-gateway](https://github.com/chipbk10/SystemDesign/blob/master/api-gateway.md), [access-token](https://github.com/chipbk10/SystemDesign/blob/master/access-token.md)
 
 - **C**:
-[certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [cdn]()
+[certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [cdn](), [cors]()
 
 - **F**:
 [full-handshake](https://github.com/chipbk10/SystemDesign/blob/master/full-handshake.md), [fault-tolerance](https://github.com/chipbk10/SystemDesign/blob/master/fault-tolerance.md), [failover]()
