@@ -36,3 +36,6 @@
 
 - **S**:
 [signature](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/certificate.md), [ssl-pinning](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/ssl-pinning.md), [sticky-session](https://github.com/chipbk10/SystemDesign/blob/master/sticky-session.md), [salt](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [service-mesh](https://github.com/chipbk10/SystemDesign/blob/master/service-mesh.md), [sso](https://github.com/chipbk10/SystemDesign/blob/master/sso.md), [sql]()
+
+- **T**:
+[time-to-live]()
