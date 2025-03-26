@@ -3,3 +3,4 @@
 - **403**: forbidden - has no permission to access the resource
 - **404**: not found - temporary unavailable resource
 - **500**: internal server error
+- **503**: service unavailable - The server cannot handle the request (because it is overloaded or down for maintenance)
