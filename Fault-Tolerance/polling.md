@@ -15,11 +15,16 @@ IV.**Long Polling**:
 - cons: server connections overhead
 
 V.**Long Polling vs WebSocket**
-- [WebSockets]() offer a persistent, bidirectional connection over a single TCP socket, upgraded from HTTP. Better than Long Polling in terms of efficiency, latency, scalability, simplicity for real-time (e.g., chat, gaming, live updates)
-- However, Long Polling wins in terms of
-  - working with legacy system or constraints (only work with http, no protocol upgrade),
-  - simple setup (no need to upgrade server to WebSocket server),
-  - a fallback mechanism when WebSocket connection fails, unavailable or unreliable
+- see [websocket]()
+
+VI.**Modern Examples of Long Polling**
+- **Chat Apps**: Slack once used long polling as a fallback before fully embracing WebSockets.
+- **Monitoring Dashboards**: Some tools poll for metrics over HTTP when real-time isn’t critical.
+- **APIs with Async Jobs**: AWS or Google Cloud APIs might use long polling for status checks on long-running tasks if WebSockets aren’t offered.
+- **IoT Devices**: Resource-constrained devices might stick to HTTP long polling over full WebSocket stacks.
+
+
+
 
 
 
