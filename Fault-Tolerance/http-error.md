@@ -1,0 +1,5 @@
+- **400**: bad request
+- **401**: unauthorized - authentication is required
+- **403**: forbidden - has no permission to access the resource
+- **404**: not found - temporary unavailable resource
+- **500**: internal server error
