@@ -1,1 +1,2 @@
-@Todo
+- resilience is the ability of a system to maintain functionality and **availability** even in the face of failures or disruptions, ensuring continuous operation and minimizing service interruptions
+- One of the primary goals of resilience is to prevent situations where **an issue with one microservice instance causes more issues**, which escalate and eventually lead to distributed system failure. This is known as a **cascading failure**. 
