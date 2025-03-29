@@ -22,5 +22,8 @@ II.**Analysis**:
 III.**Implementation**
 - @Todo: why not: `load balancer` + `circuit breaker` + service + `retries`
 - @Todo: why need to use message queue? What happens if a task fails? retries?
+  - option1: parallel async calls (or in-memory queue) risk loss if the API crashes mid-process.
+  - option2: Writing order directly to a DB (e.g., MySQL) bottlenecks at high volume and **lacks worker distribution**
+
 - @Todo: inventory database? sql or no-sql?
 - @Todo: global users? one user in Asia sends an order request to US?
