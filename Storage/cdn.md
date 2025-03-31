@@ -1,10 +1,19 @@
 I.**CDN - Content Delivery Network**
-- is a system of distributed servers that deliver web content—like css, images, videos, stylesheets, or scripts—to users based on their geographic location
-- it speeds up content delivery by caching it on edge servers closer to the user, reducing latency and improving performance.
-- CDNs also help handle traffic spikes and reduce the load on your main server.
-
+- A CDN is a network of distributed servers (`edge` nodes) spread across multiple geographic locations.
+- It’s primarily used to cache content (like web pages, images, or videos) closer to users for faster delivery, but it also offers security and traffic management features, including rate limiting.
+ 
 II.**How?**
-- register your static content with a CDN provider and then update your HTML or JavaScript code to use the CDN-provided links
+1. **Traffic Interception**:
+- When a user or client sends a request (e.g., to load a webpage or call an API), it first hits the CDN’s edge servers instead of going directly to your origin servers (your actual infrastructure).
+- client -> sends request -> DNS route to CDN -> CDN points to a CDB edge server (closers to user location)
+ 
+2. **Caching**:
+- if the response is cached, and still valid, CDN will return a cached data immediately. Otherwise CDN forwards to the origin server
+
+3. **Rate Limiting**:
+- CDN might apply predefined rules to monitor and control the incoming requests rate. For example:
+  - allow only 100 requests per minute per IP address, API key
+  - block requests from a specific region if they exceed a threshold
 
 III.**Types**
 1. **Pull**
