@@ -8,7 +8,6 @@
 - failover & retries strategies
 
 3. **Storage**
-- CDN (act as reverse proxy server - dynamic content): solve the global users reach (**very important**)
 - caching strategies
 - nosql
 - sql optimization:
@@ -18,7 +17,11 @@
   - sql-schema-design (normalize less and denormalize more to reduce write complexity. E.g., fewer joins or foreign key constraints)
   - sql-queue-write (with a message broker like Kafka, RabbitMQ or Redis to buffer write requests. The app sends writes to the queue, and a separate worker process handles the actual database updates asynchronously)
 
-3. **Others**
+4. **API**:
+- how to design api
+- api gateway
+
+5. **Others**
 - stikcy session
 - CAP theorem
 - SQL vs NoSQL
