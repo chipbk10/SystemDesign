@@ -8,7 +8,7 @@
 [full-handshake](https://github.com/chipbk10/SystemDesign/blob/master/full-handshake.md), [fault-tolerance](https://github.com/chipbk10/SystemDesign/blob/master/fault-tolerance.md), [failover]()
 
 - **H**:
-[https](https://github.com/chipbk10/SystemDesign/blob/master/https.md), [heavy-read](), [heavy-write](), [http-error]()
+[https](https://github.com/chipbk10/SystemDesign/blob/master/https.md), [heavy-read](), [heavy-write](), [http-error](), [http-cache]()
 
 - **J**:
 [jwt](https://github.com/chipbk10/SystemDesign/blob/master/jwt.md)
