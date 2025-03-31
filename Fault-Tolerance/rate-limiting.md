@@ -14,8 +14,8 @@ III.**Purposes**:
 IV.**Where?**
 - Rate limiting is often implemented at multiple layers.
   - **client-side**: might throttle requests before sending them to an API
-  - **api gateway / load balancer**: limit requests per IP address, or API key before they reach backend services
+  - **api gateway / load balancer**: limit requests per (authenticated) user, api key, token (application context) before they reach backend services
   - **application / microservices**:
   - **database / storage layer**: limit the number of write operations per second to a database
   - **middleware / service mesh**: limit inter-service calls to prevent one service from overwhelming another
-  - **cdn - dynamic content**: block excessive requests at the CDN level before they hit your infrastructure
+  - **cdn - dynamic content**: block excessive requests (per IP address, or region) at the CDN level before they hit your infrastructure
