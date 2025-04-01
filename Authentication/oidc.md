@@ -64,6 +64,6 @@ POST https://oauth2.googleapis.com/token
   "email": "alice@gmail.com"
 }
 ```
-7. `client-app` exchanges `id-token` for `session-token` (& `refresh-token`) with `server-app`
+7. `client-app` exchanges `id-token` for `access-token` (& `refresh-token`) with `server-app`
 
-8. from now on, `client-app` uses `session-token` (together with `refresh-token`) to keeps the user logged in.
+8. from now on, `client-app` uses `access-token` (together with `refresh-token`) to keeps the user logged in.
