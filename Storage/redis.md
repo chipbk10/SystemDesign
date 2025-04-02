@@ -1,0 +1,3 @@
+- key:value (as a hash)
+- redis offer persistence options, like RDB snapshots or AOF (append-only file) logging that can save data to disk periodically or on every write
+- built-in feature: timeout. Redis automatically evicts expired key-value items
