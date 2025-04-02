@@ -8,7 +8,7 @@
 [dns]()
 
 - **F**:
-[full-handshake](https://github.com/chipbk10/SystemDesign/blob/master/full-handshake.md), [fault-tolerance](https://github.com/chipbk10/SystemDesign/blob/master/fault-tolerance.md), [failover]()
+[full-handshake](https://github.com/chipbk10/SystemDesign/blob/master/full-handshake.md), [fault-tolerance](https://github.com/chipbk10/SystemDesign/blob/master/fault-tolerance.md), [failover](), [forward-proxy-server]()
 
 - **H**:
 [https](https://github.com/chipbk10/SystemDesign/blob/master/https.md), [heavy-read](), [heavy-write](), [http-error](), [http-cache]()
@@ -35,13 +35,16 @@
 [partial-handshake](), [pre-shared-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [password](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [pkce](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [polling](), [partitioning]()
 
 - **R**:
-[refresh-token](https://github.com/chipbk10/SystemDesign/blob/master/refresh-token.md), [resilience](https://github.com/chipbk10/SystemDesign/blob/master/resilience.md), [read-replicas](https://github.com/chipbk10/SystemDesign/blob/master/Storage/sql-read-replicas.md), [retries]()
+[refresh-token](https://github.com/chipbk10/SystemDesign/blob/master/refresh-token.md), [resilience](https://github.com/chipbk10/SystemDesign/blob/master/resilience.md), [read-replicas](https://github.com/chipbk10/SystemDesign/blob/master/Storage/sql-read-replicas.md), [retries](), [reverse-proxy-server]()
 
 - **S**:
 [signature](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/certificate.md), [ssl-pinning](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/ssl-pinning.md), [session](), [sticky-session](https://github.com/chipbk10/SystemDesign/blob/master/sticky-session.md), [salt](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [service-mesh](https://github.com/chipbk10/SystemDesign/blob/master/service-mesh.md), [sso](https://github.com/chipbk10/SystemDesign/blob/master/sso.md), [sql](), [short-polling](), [sharding]()
 
 - **T**:
 [time-to-live]()
+
+- **V**:
+[vpn]()
 
 - **W**:
 [websocket]()
