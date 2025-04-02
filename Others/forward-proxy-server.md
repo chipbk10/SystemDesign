@@ -18,15 +18,15 @@ I. **Forward Proxy Server vs Virtual Private Network (VPN)**
 - forward proxy: can control which clients to access what (e.g., only certain client IPs can use proxy, and access `facebook.com`)
 - vpn: differently. VPNs authenticate users/devices (e.g., via credentials or certificates) and control access to the VPN itself, not to specific destinations
 
-6.**Traffic Inspection**
+6. **Traffic Inspection**
 - forward proxy: can log or analyze requests
 - vpn: no
 
-7.**Selective Routing**
+7. **Selective Routing**
 - forward proxy: only routes traffic for apps configured to use it (e.g., browser only)
 - vpn: applys for the whole network
 
-8.**Performance (Latency/Bandwidth)**
+8. **Performance (Latency/Bandwidth)**
 - forward proxy: can reduce latency for specific requests (via caching)
 - vpn: adds encryption overhead, which might increase latency
 
