@@ -6,6 +6,7 @@
   - `HSET abc123 originalUrl "https://example.com" count 7`
   - `HINCRBY abc123 count 1`
   - `HGET abc123 originalUrl`
+- redis support transaction that allows you to execute a series of commands as a single unit of work (atomic), ensuring the consistency of your data and providing fast performance.
 
 
 
