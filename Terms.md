@@ -5,7 +5,7 @@
 [certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [cdn](), [cors](), [cache-control]()
 
 - **D**:
-[dns]()
+[dns](), [downtime]()
 
 - **F**:
 [full-handshake](https://github.com/chipbk10/SystemDesign/blob/master/full-handshake.md), [fault-tolerance](https://github.com/chipbk10/SystemDesign/blob/master/fault-tolerance.md), [failover](), [forward-proxy-server]()
@@ -23,7 +23,7 @@
 [load-balancer](), [login](https://github.com/chipbk10/SystemDesign/blob/master/login.md), [login-session-id](https://github.com/chipbk10/SystemDesign/blob/master/login-session-id.md), [login-session-token](https://github.com/chipbk10/SystemDesign/blob/master/login-session-token.md), [long-polling]()
 
 - **M**:
-[master-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md)
+[master-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [migration]()
 
 - **N**:
 [no-sql]()
@@ -42,6 +42,9 @@
 
 - **T**:
 [time-to-live]()
+
+- **U**:
+[uptime]()
 
 - **V**:
 [vpn]()
