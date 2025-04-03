@@ -7,7 +7,7 @@
   - `HINCRBY abc123 count 1`
   - `HGET abc123 originalUrl`
 - redis support transaction that allows you to execute a series of commands as a single unit of work (atomic), ensuring the consistency of your data and providing fast performance.
-  - however, transactions add overhead and complexity (e.g., handling failures with retries) 
+  - however, transactions add overhead and complexity (e.g., handling failures with retries). In the middle, any command might fail to execute (due to the operation from different thread), which leads to the entire transaction fail, and you have to retry.
 
 
 
