@@ -1,0 +1,5 @@
+- think of `MAC address` as a hardware `fingerprint` for devices like your computer, phone, or router
+- a MAC address is a 48-bit `hexdecimal number` (e.g., `00:1A:2B:3C:4D:5E`)
+- the first 24 bits (called as OUI) is assigned by `IEEE` (a global electrical and electronics organization) to the manufacturer or organization producing the device (e.g., Apple, Intel, or Cisco).
+- the remaining 24 bits are assigned by the manufacturer to uniquely identify each device they produce.
+- rarely collision
