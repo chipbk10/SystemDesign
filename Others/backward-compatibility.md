@@ -1,0 +1,1 @@
+- early system relies on a specific design (or technology), and changing (to a new design, or a new technology) could break the legacy application. That's called `backward compatibility` problem
