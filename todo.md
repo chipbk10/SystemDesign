@@ -26,3 +26,4 @@
 - CAP theorem
 - SQL vs NoSQL
 - How to migrate from legacy system to clouding service?
+- network time protocol (NTP)
