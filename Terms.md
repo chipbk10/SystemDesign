@@ -29,7 +29,7 @@
 [master-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [migration](), [mac-address]()
 
 - **N**:
-[no-sql]()
+[no-sql](), [ntp]()
 
 - **O**:
 [oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc](https://github.com/chipbk10/SystemDesign/blob/master/oidc.md)
