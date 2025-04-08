@@ -1,3 +1,5 @@
 - `-`: hyphen
 - `:`: colon
 - `0-9, a-f`: hexadecial digit (or number)
+- `case-sensitive`: differentiate between regular & capital characters (e.g., `a` is not the same as `A`)
+- `case-insensitive`: treat regular & capital characters the same (e.g., `a` = `A`)
