@@ -1,0 +1,2 @@
+- **standard ASCII** (American standard code for information interchange) uses 7 bits to represent 128 unique characters (0-127)
+- **extended ASCII** uses 8 bits to represent 256 characters (0-256)
