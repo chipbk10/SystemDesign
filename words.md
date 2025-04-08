@@ -1,0 +1,3 @@
+- `-`: hyphen
+- `:`: colon
+- `0-9, a-f`: hexadecial digit (or number)
