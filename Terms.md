@@ -47,7 +47,7 @@
 [time-to-live]()
 
 - **U**:
-[uptime]()
+[uptime](), [utf](), [utf-8]()
 
 - **V**:
 [vpn]()
