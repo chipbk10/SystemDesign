@@ -1,5 +1,7 @@
 I.**2xx**:
-- **201**: created
+- **200**: ok - success
+- **201**: created - data is created
+- **202**: accepted - it’s in progress but not guaranteed
   
 II.**3xx**:
 - **301**: redirect - permanently (cached from front-end)
