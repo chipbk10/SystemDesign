@@ -1,0 +1,4 @@
+- is a mathematical algorithm that takes an **input of any size** and transforms it into a **fixed-size output** (often called a hash value, hash code, or **digest**)
+- it's like a fingerprint for data - uniquely representing the input in a condensed form
+- **MD5** produces a 128-bit (16 bytes), **SHA-1** - 160-bit (20 bytes), **SHA-256** - 256-bit (32 bytes), **SHA-512** - 512-bit (64 bytes), **bcrypt** 184 bits
+- applications: **data integrity check**
