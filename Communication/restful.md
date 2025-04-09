@@ -25,6 +25,6 @@ III. **HTTP methods**:
 - **POST**: create a resource
 - **PUT**: update (or replace) a resource
   - `**PUT** /orders/123` -> Replace the entire order 123 
-- PATCH: partially update a resource
+- **PATCH**: partially update a resource
   - `**PATCH** /orders/123` -> partially update order 123 (e.g., change status)
 - **DELETE**: remove a resource
