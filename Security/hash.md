@@ -3,5 +3,5 @@
   - for example, we use the digest as a string to check the data integrity (e.g., check-sum)
   - for example, we use the digest as a number to be used in a hash-table (`index = hash(key)` to access in an array)
 - it's like a fingerprint for data - uniquely representing the input in a condensed form
-- **MD5** produces a 128-bit (16 bytes), **SHA-1** - 160-bit (20 bytes), **SHA-256** - 256-bit (32 bytes), **SHA-512** - 512-bit (64 bytes), **bcrypt** 184 bits
+- **CRC32** produces a 32-bit (4 bytes), **MD5** 128-bit (16 bytes), **SHA-1** - 160-bit (20 bytes), **SHA-256** - 256-bit (32 bytes), **SHA-512** - 512-bit (64 bytes), **bcrypt** 184 bits
 - applications: **data integrity check**
