@@ -11,6 +11,7 @@ III.**4xx**:
 - **403**: forbidden - has no permission to access the resource
 - **404**: not found - temporary unavailable resource
 - **429**: too many requests
+- **409**: conflict
 
 IV.**5xx**:
 - **500**: internal server error
