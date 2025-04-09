@@ -14,7 +14,7 @@
 [full-handshake](https://github.com/chipbk10/SystemDesign/blob/master/full-handshake.md), [fault-tolerance](https://github.com/chipbk10/SystemDesign/blob/master/fault-tolerance.md), [failover](), [forward-proxy-server]()
 
 - **H**:
-[https](https://github.com/chipbk10/SystemDesign/blob/master/https.md), [heavy-read](), [heavy-write](), [http-error](), [http-cache]()
+[https](https://github.com/chipbk10/SystemDesign/blob/master/https.md), [heavy-read](), [heavy-write](), [http-error](), [http-cache](), [hash]()
 
 - **J**:
 [jwt](https://github.com/chipbk10/SystemDesign/blob/master/jwt.md)
