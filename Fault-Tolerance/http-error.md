@@ -1,5 +1,6 @@
 I.**3xx**:
-- **301**: redirect
+- **301**: redirect - permanently (cached from front-end)
+- **302**: redirect - temporarily (no cache)
 
 II.**4xx**:
 - **400**: bad request
