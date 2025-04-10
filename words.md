@@ -5,3 +5,4 @@
 - `case-insensitive`: treat regular & capital characters the same (e.g., `a` = `A`)
 - `opt-in`, `opt-out`: an option to join or not join
 - `spof`: single point of failure
+- `peak hours`, `bottleneck`
