@@ -7,3 +7,4 @@
 - `spof`: single point of failure
 - `peak hours`, `bottleneck`
 - `eta`: estimated time of arrival
+- `throughput`: refers to the amount of work or data processed within a specific timeframe. For example: a server processing 10K API requests per second.
