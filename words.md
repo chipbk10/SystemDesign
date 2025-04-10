@@ -8,3 +8,4 @@
 - `peak hours`, `bottleneck`
 - `eta`: estimated time of arrival
 - `throughput`: refers to the amount of work or data processed within a specific timeframe. For example: a server processing 10K API requests per second.
+- `on-premises` (vs `on-cloud`): refers to private data centers that companies house in their own facilities and maintain themselves.
