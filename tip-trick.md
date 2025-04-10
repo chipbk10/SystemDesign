@@ -2,3 +2,4 @@
 - **real-time** system?
   - **soft-real-time** system: try to provide responses asap. However if the system is under a high workload, a slight delay is acceptable
 - **market China**: many services (e.g., facebook, google, etc.) are not available. Use local services (are accepted and managed by Chinese government) for alternatives
+- **retry**: if error still persists after several retries, we can send an alert to developers (to investigate and fix)
