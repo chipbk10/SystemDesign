@@ -20,13 +20,13 @@
 [jwt](https://github.com/chipbk10/SystemDesign/blob/master/jwt.md)
 
 - **K**:
-[keep-alive](https://github.com/chipbk10/SystemDesign/blob/master/keep-alive.md)
+[keep-alive](https://github.com/chipbk10/SystemDesign/blob/master/keep-alive.md), [kafka]()
 
 - **L**:
 [load-balancer](), [login](https://github.com/chipbk10/SystemDesign/blob/master/login.md), [login-session-id](https://github.com/chipbk10/SystemDesign/blob/master/login-session-id.md), [login-session-token](https://github.com/chipbk10/SystemDesign/blob/master/login-session-token.md), [long-polling]()
 
 - **M**:
-[master-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [migration](), [mac-address]()
+[master-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [migration](), [mac-address](), [message-broker]()
 
 - **N**:
 [no-sql](), [ntp]()
@@ -38,7 +38,7 @@
 [partial-handshake](), [pre-shared-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [password](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [pkce](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [polling](), [partitioning]()
 
 - **R**:
-[refresh-token](https://github.com/chipbk10/SystemDesign/blob/master/refresh-token.md), [resilience](https://github.com/chipbk10/SystemDesign/blob/master/resilience.md), [read-replicas](https://github.com/chipbk10/SystemDesign/blob/master/Storage/sql-read-replicas.md), [retries](), [reverse-proxy-server]()
+[refresh-token](https://github.com/chipbk10/SystemDesign/blob/master/refresh-token.md), [resilience](https://github.com/chipbk10/SystemDesign/blob/master/resilience.md), [read-replicas](https://github.com/chipbk10/SystemDesign/blob/master/Storage/sql-read-replicas.md), [retries](), [reverse-proxy-server](), [rabbit-mq]()
 
 - **S**:
 [signature](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/certificate.md), [ssl-pinning](https://github.com/chipbk10/SystemDesign/blob/master/Cryptographic/ssl-pinning.md), [session](), [sticky-session](https://github.com/chipbk10/SystemDesign/blob/master/sticky-session.md), [salt](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [service-mesh](https://github.com/chipbk10/SystemDesign/blob/master/service-mesh.md), [sso](https://github.com/chipbk10/SystemDesign/blob/master/sso.md), [sql](), [short-polling](), [sharding](), [serialization]()
