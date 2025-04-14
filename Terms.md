@@ -5,10 +5,10 @@
 [backward-compatibility]()
 
 - **C**:
-[certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [cdn](), [cors](), [cache-control](), [consistency](), [cap-theorem]()
+[certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [cdn](), [cors](), [cache-control](), [consistency](), [cap-theorem](), [container]()
 
 - **D**:
-[dns](), [downtime](), [decoding](), [deserialization]()
+[dns](), [downtime](), [decoding](), [deserialization](), [docker]()
 
 - **F**:
 [full-handshake](https://github.com/chipbk10/SystemDesign/blob/master/full-handshake.md), [fault-tolerance](https://github.com/chipbk10/SystemDesign/blob/master/fault-tolerance.md), [failover](), [forward-proxy-server]()
@@ -20,7 +20,7 @@
 [jwt](https://github.com/chipbk10/SystemDesign/blob/master/jwt.md)
 
 - **K**:
-[keep-alive](https://github.com/chipbk10/SystemDesign/blob/master/keep-alive.md), [kafka]()
+[keep-alive](https://github.com/chipbk10/SystemDesign/blob/master/keep-alive.md), [kafka](), [kubernetes](), [kernel]()
 
 - **L**:
 [load-balancer](), [login](https://github.com/chipbk10/SystemDesign/blob/master/login.md), [login-session-id](https://github.com/chipbk10/SystemDesign/blob/master/login-session-id.md), [login-session-token](https://github.com/chipbk10/SystemDesign/blob/master/login-session-token.md), [long-polling]()
@@ -32,7 +32,7 @@
 [no-sql](), [ntp]()
 
 - **O**:
-[oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc](https://github.com/chipbk10/SystemDesign/blob/master/oidc.md)
+[oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc](https://github.com/chipbk10/SystemDesign/blob/master/oidc.md), [os]()
 
 - **P**:
 [partial-handshake](), [pre-shared-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [password](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [pkce](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [polling](), [partitioning](), [network-partitions]()
@@ -50,7 +50,7 @@
 [uptime](), [utf](), [utf-8](), [utc]()
 
 - **V**:
-[vpn]()
+[vpn](), [vm]()
 
 - **W**:
 [websocket]()
