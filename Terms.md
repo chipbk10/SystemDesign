@@ -32,7 +32,7 @@
 [no-sql](), [ntp]()
 
 - **O**:
-[oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc](https://github.com/chipbk10/SystemDesign/blob/master/oidc.md), [os]()
+[oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc](https://github.com/chipbk10/SystemDesign/blob/master/oidc.md), [os](), [otp]()
 
 - **P**:
 [partial-handshake](), [pre-shared-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [password](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [pkce](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [polling](), [partitioning](), [network-partitions]()
@@ -54,3 +54,6 @@
 
 - **W**:
 [websocket]()
+
+- **2**:
+[2FA]()
