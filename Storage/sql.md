@@ -1,0 +1,6 @@
+- we name a table with plural (e.g., users, tokens, documents, etc.)
+- we use `UUID` and `PRIMARY KEY` to represent id (e.g., `user_id UUID PRIMARY KEY`)
+- we use `REFERENCES` to represent a foreign key
+- we use `CONSTRAINT` to limit value types. For example:
+  - role VARCHAR(20) NOT NULL,
+  - CONSTRAINT valid_role CHECK (role IN('create', 'delete', 'edit', 'view')
