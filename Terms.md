@@ -5,7 +5,7 @@
 [backward-compatibility]()
 
 - **C**:
-[certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [cdn](), [cors](), [cache-control](), [consistency](), [cap-theorem](), [container]()
+[certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [cdn](), [cors](), [cache-control](), [consistency](), [cap-theorem](), [container](), [csprng]()
 
 - **D**:
 [dns](), [downtime](), [decoding](), [deserialization](), [docker]()
