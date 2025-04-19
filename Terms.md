@@ -1,5 +1,5 @@
 - **A**:
-[api-gateway](https://github.com/chipbk10/SystemDesign/blob/master/api-gateway.md), [access-token](https://github.com/chipbk10/SystemDesign/blob/master/access-token.md), [atomic](), [api-key](), [availability]()
+[api-gateway](https://github.com/chipbk10/SystemDesign/blob/master/api-gateway.md), [access-token](https://github.com/chipbk10/SystemDesign/blob/master/access-token.md), [atomic](), [api-key](), [availability](), [api-versioning](), [aws-rds](), [aws-aurora](), [aws-s3]()
 
 - **B**:
 [backward-compatibility]()
