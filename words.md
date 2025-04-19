@@ -11,3 +11,4 @@
 - `on-premises` (vs `on-cloud`): refers to private data centers that companies house in their own facilities and maintain themselves.
 - `MAU`: monthly active user
 - `DAU`: daily active user
+- `QPS`: number of queries per second
