@@ -1,2 +1,3 @@
-- object storage
+- Amazon S3 is an object storage service that offers scalability, data availability (backup & restore critical data), security, analytics, AI and performance
+- 
 - @Todo
