@@ -12,4 +12,5 @@
   - Cron jobs: Schedule tasks like database backups or report generation.
   - Chatbots: Handle user inputs in real-time for conversational apps.
 
+- In short, Lambda **eliminates the need to deploy and manage Docker containers on servers** for most use cases, simplifying the process to just writing and uploading code
 - **@Todo**
