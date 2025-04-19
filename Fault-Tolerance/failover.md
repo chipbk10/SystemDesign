@@ -1,1 +1,4 @@
-@Todo
+- failover is the ability of a system to continue functioning even if a failure occurs.
+- it reduces downtime and supports business continuity
+- in PostgreSQL, automatic failover involves switching to a standby server if the primary server fails. The **monitor node** is for health checks, and coordination of failover events.
+- @Todo
