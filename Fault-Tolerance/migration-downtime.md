@@ -1,4 +1,5 @@
 - what happens if we update a schema in SQL database?
   - consider to use online schema migration (e.g., Google's F1 or Aurora) to avoid downtime @Todo
 - what happens if we have to update some data in SQL database?
-  - FAANG companies often run migrations in batches or use tools like Vitess or Flyway. @Todo 
+  - FAANG companies often run migrations in batches or use tools like Vitess or Flyway. @Todo
+- migrate data from PostgreSQL to AWS-S3: run in background (e.g., [AWS Lambda](), or Celery)
