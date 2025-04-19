@@ -1,3 +1,3 @@
 - Amazon S3 is an object storage service that offers scalability, data availability (backup & restore critical data), security, analytics, AI and performance
-- 
+- Price: **0,02$/1GB**
 - @Todo
