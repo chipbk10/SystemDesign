@@ -1,1 +1,4 @@
-- **@Todo**
+- **unidirectional communication** where the server push data to the client as a stream of events
+- **simple setup**: use standard HTTP
+- **connection**: a long-lived HTTP connection, automatic reconnection (via `EventSource` and `retry`)
+- **data type**: only text UTF-8
