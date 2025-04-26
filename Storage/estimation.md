@@ -1,0 +1,8 @@
+- on average, a photo file size ~ 200KB
+- on average, an object-id (e.g., user-id, photo-id) ~ 4 bytes (@**Todo** use UUID ??)
+- on average, an email address ~ 32 bytes
+- on average, a date-time (e.g., last-login, create-date, date-of-birth) ~ 4 bytes
+- on average, a person name ~ 20 bytes
+- on average, a latitude/longtitude ~ 4 bytes
+- on average, in a social network, a user might follow ~ 500 users (@**Todo**)
+- normally, in design we want our system to live at least 10 years (@**Todo**)

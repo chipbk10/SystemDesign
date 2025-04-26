@@ -1,2 +1,0 @@
-- average photo file size ~ 200KB
-- @Todo
