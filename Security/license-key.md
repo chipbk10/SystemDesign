@@ -1,0 +1,2 @@
+- **License Key**: a unique code or string that grants acess to use a software, service, or feature. It verifies that you have a valid license, often entered during installation or activation (e.g., a product key for Microsoft Office)
+- @Todo
