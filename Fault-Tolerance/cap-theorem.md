@@ -1,0 +1,5 @@
+- **CAP theorem** states that a distributed system can only guarantee two out of three properties: consistency, availability, and partition tolerance.
+- this means that in the face of **network partitions**, a system must choose between ensuring data **consistency** across all nodes or maintaining **availability** even if data might be temporarily inconsistent.
+- **Consistency**: ensures that all clients see the same, up-to-date version of the data
+- **Availability**: guarantees that every request receives a non-error response. It doesn't matter if the data might be stale. It’s about keeping the system responsive to clients
+- **Partition Tolerance**: the system continues to operate despite the loss of messages between nodes
