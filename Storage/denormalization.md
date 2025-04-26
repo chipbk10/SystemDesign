@@ -1,1 +1,1 @@
-@Todo
+- **denormalization** is to put data (e.g., from 2 separate tables) in one place (one table) to avoid needing a join
