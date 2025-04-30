@@ -1,0 +1,4 @@
+- uses standard HTTPS URLs (e.g., `https://example.com/content/123`) that can open an app if installed (**no user prompt**) or fall back to a website if not.
+- requires an **Apple App Site Association (ASSA)** file hosted on the website's server, specifying which URLs map to the app
+- requires app configuration (Associated Domains in `entitlements`)
+- iOS downloads the AASA file when the app is installed and associates the URLs with the app
