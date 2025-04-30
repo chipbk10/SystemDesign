@@ -1,2 +1,2 @@
-- use a custom URL scheme (e.g., `myapp://content/123`) that an app registers to open specific content or perform actions within the app
+- use a custom URL scheme (e.g., `myapp://content/123`) that an app registers to open specific content (user prompt if we try to open from a web browser) or perform actions within the app
 - requires app-specific configuration in `Info.plist`
