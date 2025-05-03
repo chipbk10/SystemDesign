@@ -3,3 +3,7 @@
   - **soft-real-time** system: try to provide responses asap. However if the system is under a high workload, a slight delay is acceptable
 - **market China**: many services (e.g., facebook, google, etc.) are not available. Use local services (are accepted and managed by Chinese government) for alternatives
 - **retry**: if error still persists after several retries, we can send an alert to developers (to investigate and fix)
+- **80-20 rule**: if 20% of data is generating 80% of traffic, then we can try to cache 20% data
+- **cache policies**
+  - **LRU (least recently used)**: @Todo
+  - **others**: @Todo
