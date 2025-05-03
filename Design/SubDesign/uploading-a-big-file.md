@@ -21,10 +21,10 @@
 5. **You store metadata in DynamoDB, and in the meantime, use a message queue to asynchronously upload multiple parts of the big file to S3. You don’t wait until the raw data is completely uploaded to S3, you immediately return a success response to the client?**
 - No, I don’t return a success response immediately. The Media Service first stores metadata in DynamoDB and synchronously uploads all parts of the file to a temporary S3 bucket using S3 Multipart Upload. Once all parts are uploaded to S3 (confirmed by S3’s response), the service returns a success response to the client. Only then does it publish a message to the Message Queue (e.g., Kafka) for asynchronous processing (e.g., resizing, transcoding). This ensures the raw data is safely stored before acknowledging success, maintaining reliability.
 
-6.**After a threshold (3 failed attempts), you will return a failure response, and delete the metadata from DynamoDB?**
+6. **After a threshold (3 failed attempts), you will return a failure response, and delete the metadata from DynamoDB?**
 - If the Message Queue enqueuing fails after 3 retries (e.g., for media processing), the Media Service moves the message to a dead-letter queue (DLQ) and returns a failure response to the client (e.g., “Processing failed, please retry”). However, I don’t delete the metadata from DynamoDB or the raw data from the temporary S3 bucket. Keeping them allows manual recovery or debugging (e.g., re-enqueuing the processing task). The metadata is marked with a status (e.g., “failed”) to indicate the issue, ensuring no data loss.
 
-7.**For uploading a media, do you use long-polling HTTPS? How do you upload a big video (~10MB) to S3? Do you truncate the file into small parts?**
+7. **For uploading a media, do you use long-polling HTTPS? How do you upload a big video (~10MB) to S3? Do you truncate the file into small parts?**
 - Long-polling HTTPS: No, I use standard HTTPS POST for uploads to keep it simple and reliable. Long-polling is unnecessary as uploads are synchronous up to the temporary S3 bucket.
 - Uploading a 10MB video: Use S3 Multipart Upload. The client splits the video into smaller parts (e.g., 5MB chunks) and uploads them in parallel to S3. This improves speed, handles network interruptions, and allows resuming failed uploads. Once all parts are uploaded, S3 assembles them into the final file.
 
