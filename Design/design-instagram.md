@@ -24,5 +24,5 @@
 - @Todo: total space required to upload media for 1 day
 - @Todo: total space required to maintain our system for 10 years
 
-# Step 2:
-- @Todo
+# Step 2: High-Level Architecture
+- 
