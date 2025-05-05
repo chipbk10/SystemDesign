@@ -31,6 +31,22 @@
 8. **Why do we need an S3 temporary bucket to store raw media data?**
 - A temporary S3 bucket holds raw, unprocessed media (photos/videos) during upload to decouple the upload from processing. This ensures fast user response (upload acknowledged quickly) while allowing asynchronous processing (e.g., resizing, transcoding) without tying up client connections or risking data loss if processing fails.
 
+9. **If you use only the standard https post, so how you can get updated for the uploading progress?**
+- To show upload progress for a big file using a standard HTTPS POST, the front-end app relies on client-side mechanisms provided by modern web or mobile frameworks, as the standard HTTPS POST itself doesn’t inherently send progress updates from the server. 
+- As the client sends the file data in a standard HTTPS POST, these APIs track the number of bytes sent versus the total file size.
+- The app calculates the percentage (bytes sent ÷ total bytes) and updates the UI (e.g., progress bar) in real-time
+- If the connection drops, the entire POST fails, and no progress is saved (unlike multipart uploads).
+
+10. **Do Instagram and Facebook apps use standard HTTPS POST for uploading?**
+- Instagram and Facebook apps likely do not rely solely on a single standard HTTPS POST for uploading media (e.g., photos, videos). Instead, they use more robust methods like multipart uploads or chunked uploads over HTTPS, especially for larger files such as videos. These methods involve splitting files into smaller chunks and sending them in multiple requests, which is more efficient and resilient than a single POST. For smaller files (e.g., low-resolution photos), a standard HTTPS POST might be used due to simplicity, but for larger or high-quality media, chunked or multipart uploads are standard in modern apps to handle network variability and improve performance
+
+11. **What happens if the connection drops?**
+- If the connection drops during an upload, the upload process typically fails at the point of interruption. For a standard HTTPS POST, the entire upload would fail, and the app would display an error (e.g., “Upload Failed” or “Story Not Uploading”). For chunked/multipart uploads, only the unsent chunks are affected, and the server retains successfully uploaded chunks. Instagram and Facebook apps often show errors like “Upload Failed” or “Stuck on Sending” when a connection drops, as reported by users. The apps may retry the upload automatically if the network reconnects, but this depends on the app’s retry logic and network conditions
+
+12. **Do they (Instagram or Facebook) have a feature to resume previous uploads?**
+- There is no explicit, user-facing “resume upload” feature documented in Instagram or Facebook apps, unlike some cloud storage services (e.g., Google Cloud Storage, Dropbox). If a connection drops, the apps may attempt to retry the upload automatically in the background, leveraging chunked uploads to avoid restarting from scratch, but this is not exposed as a user-controlled feature. If retries fail, users typically see an error and must manually restart the upload. User reports indicate that uploads often fail completely on unstable connections, requiring a fresh attempt, suggesting limited or no resume functionality for end users. For example, users have reported needing to re-upload after switching networks or restarting the app
+
+
 
 
 
