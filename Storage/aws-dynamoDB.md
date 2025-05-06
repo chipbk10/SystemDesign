@@ -1,0 +1,3 @@
+- key-value nosql type
+- is disk-based
+- @Todo
