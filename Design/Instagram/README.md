@@ -4,7 +4,7 @@
 # Clarify Requirements
 
 ## Functional Requirements
-- Users can share a post that contains meta data (e.g., title, description, etc.), and media (e.g., photo or video)
+- Users can share a media (photo or video) and other meta data (e.g., title, description, etc)
 - Users can follow/unfollow others
 - Users can search a photo or a video based on their titles
 - Users can see the news feed that displays the most recent posts from the followed users
