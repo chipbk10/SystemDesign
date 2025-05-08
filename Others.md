@@ -1,7 +1,0 @@
-1. What is CSRF token? [#](https://portswigger.net/web-security/csrf/tokens)
-2. API key [#](https://www.quora.com/What-is-an-API-key-and-why-is-it-so-important)
-3. How to secure login & registration [#](https://security.stackexchange.com/questions/33585/what-do-i-need-to-do-to-secure-log-in-and-registration-for-my-website)
-4. MD5 vs SHA [#](https://www.freecodecamp.org/news/md5-vs-sha-1-vs-sha-2-which-is-the-most-secure-encryption-hash-and-how-to-check-them/#:~:text=The%20SHA%2D256%20algorithm%20returns,MD5%20or%20SHA%2D1%20hashes.)
-5. Base64 [#](https://base64.guru/learn/base64-characters), application [#](https://base64.guru/learn/what-is-base64), encode [#](https://base64.guru/learn/base64-algorithm/encode), decode [#](https://base64.guru/learn/base64-algorithm/decode), Ascii-table [#](https://base64.guru/learn/more/ascii-table)
-6. How do you build an API? [#](https://www.quora.com/How-do-you-build-an-API)
-7. SSL Pinning [#](https://medium.com/@zhangqichuan/explain-ssl-pinning-with-simple-codes-eaee95b70507)
