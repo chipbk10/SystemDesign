@@ -15,6 +15,8 @@
 
 - web/mobile app -> API GateWay -> Our API -> Storage
 - we will use NoSQL key-value type (e.g., AWS DynamoDB) to store metadata
+  - DynamoDB supports persistent storage (disked-based)
+  - DynamoDB is fast, and we don't need complex queries with relationship like SQL
   - file_id (Partition Key), value: json {filename, file_type, file_size, author_name, upload_status, created_at, upload_id, path_url, eTag}
 - we will use Object Storage (e.g., AWS S3) to store binary data of the file
   - it's not a good practice to store a big file (as BLOB) in SQL database (not natively support, slow on query)
