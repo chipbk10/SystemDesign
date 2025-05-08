@@ -1,0 +1,6 @@
+- to reduce the bandwidth, we can compress data (e.g., gzip). The trade-off is this requires additional CPU time to uncompress the results
+- to reduce the bandwidth, we can send (PATCH) or receive only the portion of the data that we're interested in. [Partial Update & Response](https://developers.google.com/workspace/gmail/api/guides/performance#partial)
+- to reduce the HTTP connections, we can batch multiple apis in a single request. The trade-off is this requires more bandwidth
+- to transmit a big data, we can split into small chunks, and call multiple HTTP requests concurrently. The trade-off is this will increase the server load. Each connection requires the server to allocate resources (CPU, memory, I/O) to process it.
+- to reduce the number of requests for the same resource, we can use [ETag]() to check if the resource is modified. If not modified, we can use from the client's cache
+- to avoid duplicate operation, we can attach idempotency key in HTTP header
