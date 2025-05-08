@@ -6,3 +6,4 @@
 - on average, a latitude/longtitude ~ 4 bytes
 - on average, in a social network, a user might follow ~ 500 users (@**Todo**)
 - normally, in design we want our system to live at least 10 years (@**Todo**)
+- AWS API Gateway’s 10MB **payload limit**
