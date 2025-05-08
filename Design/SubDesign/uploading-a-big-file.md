@@ -24,6 +24,7 @@
   - AWS S3 supports resume functionality
   - AWS S3 supports millions of upload/download at a time
   - AWS S3 supports pre-signed URLs that alows our web/mobile app uploads a big file to S3 directly without AWS credential. This will decrease the load on our server.
+  - AWS S3 will bypass the payload limit at our API Gateway (e.g., AWS API Gateway, the payload limit is 10MB)
 - we will split big file in chunks, and upload chunks in parallels
 - if something wrong (e.g., network disrupted, app terminated), we can resume by uploading the failed chunks
 - we store the upload status in metadata like: uploading, uploaded, failed
