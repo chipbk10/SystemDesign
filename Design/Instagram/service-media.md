@@ -14,10 +14,8 @@
 
 1. **How do you upload a media?**
 - we use HTTPs POST to upload for a small or medium file size
-3. **How do you handle with a heavy file (> 100MB)?**
+2. **How do you handle with a heavy file (> 100MB)?**
 - see how to upload a big file in sub design
-- we can upload directly from mobile/web app to S3 to avoid the loads on Media Service
-  - mobile/web app sends `/api/media/upload/init` to Media Service
-  - Media Service calls `S3` to start multiple upload
+
 
 
