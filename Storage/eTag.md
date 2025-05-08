@@ -6,7 +6,9 @@
   5. server compares current value of eTag with the eTag client sent
   6. if they're the same, server returns status code `304 (Not Modified)` with an empty http body, and client will use its cached resource
   7. if they're not the same, server returns status code `200` with an updated resource and a new eTag (e.g., "resource_version2")
+
+- Common methods to auto generate eTag value is using a hash of the resource's content, or just a hash of the last modification timestamp.
  
-- eTag vs idempotency key
+- **eTag** vs **idempotency key**
   - eTag is tied to a resource's state, mainly for caching
   - idempotency key is tied to a request to avoid duplicate operations
