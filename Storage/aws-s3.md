@@ -11,5 +11,8 @@
   - use small chunks (5-10MB), ensuring the resumability
   - upload multiple parts in parallel, ensuring fast uploads
   - use pre-signed URLs to offload backend servers, and bypass the payload limit from our API Gateway (e.g., if we use AWS API Gateway, the payload limit is 10MB)
-- Once all parts are uploaded, S3 assembles them into the final file
+- client upload a part to a pre-signed URL together with metadata (e.g., part-number, md5 hash, AWS signature, etc.)
+- S3 checks md5 hash to verify the integrity, and return an ETag
+- client finishes uploading all parts, and finally sends the complete request together with all ETags
+- based on ETags, S3 assembles all parts to construct the entire object. Then S3 returns 200 & the final object's ETag, which is used for later downloading
 - [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html)
