@@ -10,6 +10,9 @@
 - **D**:
 [dns](), [downtime](), [decoding](), [deserialization](), [docker]()
 
+- **E**:
+[eTag]()
+
 - **F**:
 [full-handshake](https://github.com/chipbk10/SystemDesign/blob/master/full-handshake.md), [fault-tolerance](https://github.com/chipbk10/SystemDesign/blob/master/fault-tolerance.md), [failover](), [forward-proxy-server]()
 
