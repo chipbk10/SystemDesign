@@ -1,3 +1,15 @@
 - Amazon S3 is an object storage service that offers scalability, data availability (backup & restore critical data), security, analytics, AI and performance
 - Price: **0,02$/1GB**
-- @Todo
+- S3 doesn't support **batching** multiple parts into a single HTTP requests.
+- S3 support **parallel** uploads by sending multiple HTTP Puts concurrently (no need in any order)
+- to initiate, S3 returns an `upload-id`, based on that our back-end can generate URLs which allows to upload partly
+- our back-end calls AWS SDK's `getSignedURL` method to generate pre-signed URLs for each part.
+- a **pre-signed URL** is a temporary, secure URL (contains a AWS signature) that allows the third-party to download or upload objects without requiring them to have AWS credentials or permissions
+- S3 doesn't require specifying the number of upload parts upfront
+- the client can decide how many parts to split. S3 Multipart Upload requires parts **≥5MB** (except the last) and **≤5GB**, with up to **10,000 parts**
+- **best practice** is:
+  - use small chunks (5-10MB), ensuring the resumability
+  - upload multiple parts in parallel, ensuring fast uploads
+  - use pre-signed URLs to offload backend servers
+- Once all parts are uploaded, S3 assembles them into the final file
+- [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html)
