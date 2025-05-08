@@ -19,10 +19,11 @@
 - client finishes uploading all parts, and finally sends the complete request together with all ETags
 - based on ETags, S3 assembles all parts to construct the entire object. Then S3 returns 200 & the final object's ETag, which is used for later downloading
 - [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html)
+- [AWS S3 upload large objects](https://aws.amazon.com/blogs/compute/uploading-large-objects-to-amazon-s3-using-multipart-upload-and-transfer-acceleration/)
 
 ## How to resume?
 - our back-end calls S3 ListParts api to get a list of successful uploaded parts
 - note that, S3 ListParts api needs AWS credential, so the client needs to call via our back-end
 - based on that list, the client knows what parts are missing
 - to resume, the client just needs to upload the missing parts with pre-signed URLs
-- note that, the pre-signed URLs lifetime is short (e.g., within 1 hour). In case, the pre-signed URLs expire, the client has to ask for new pre-signed URLs from S3 via our back-end
+- note that, the pre-signed URLs lifetime is short (the default is 15 minutes). In case, the pre-signed URLs expire, the client has to ask for new pre-signed URLs from S3 via our back-end
