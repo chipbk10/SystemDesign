@@ -29,6 +29,7 @@
   "media_id": "550e8400-e29b-41d4-a716-446655440000",
   "user_id": "12345",
   "title": "Mountain Adventure",
+  "tags": ["hiking", "nature"],
   "media_type": "video",
   "upload_time": "2025-05-08T12:00:00Z",
   "status": "processed",
