@@ -32,7 +32,7 @@
 - checks userB exists (query `User` table), and ensures userA isn't already following (or unfollowing) userB (query `FollowRelationships` table)
 - checks userB's privacy settings (e.g., allow other to follow, or requires approval)
 - insert a record in both `FollowRelationships`, and `FolloweeRelationships` (with status = "active" or "pending" if requires approval) in an atomic transaction
-- publish an event asynchronously (via SQS queue or SNS topic) to notify other services.
+- publish an event asynchronously (via SQS queue or SNS topic or via DynamoDB Streams) to notify other services.
   - Feed Service consumes the event, adding/removing User B's recent media to/from User A's feed (e.g., update in Feed table or cache)
   - Search Service: update relevance scores to prioritize User B's media in User A's searches (**@Todo**)
   ```javascript
@@ -52,5 +52,19 @@
   ``` 
   - Caching: update Redis cache for User B's follower list or User A's following list
 
-
-
+## Questions
+1. **How do you handle a celebrity with 10 million followers?**
+- we cache follower lists of the celebrity in Redis to reduce DynamoDB reads
+- in DynamoDB, we shard writes (**@Todo**): choose a shard randomly or based on a rule (e.g., `followee_id % num_shards`). To retrieve all follow relationships, we query all shard keys and merge results
+  ```json
+    {"celebrity_id": "12345_shard1", "followee_id": "67890"}
+    {"celebrity_id": "12345_shard2", "followee_id": "99999"}
+  ```
+2. **What if feed updates lag?**
+- Monitor SQS backlog, prioritize critical users (**@Todo**)
+3. **Why not use a graph database?**
+- DynamoDB is sufficient for simple follow queries (we don't need complex queries like finding mutual friends), lower ops cost (**@Todo**)
+- **@Todo**: compare between key-value NoSQL and Graph database
+4. **How do you know an user is/becomes a celebrity?**
+- we mark `celebrity_status = true` in `User` table
+- **@Todo**
