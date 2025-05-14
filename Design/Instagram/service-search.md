@@ -15,7 +15,10 @@
 
 ## Indexing
 - we index metadata (media_id, title, tags, media_type, user_id, upload_time) in OpenSearch using an inverted index, which maps terms (e.g., "hiking") to media_ids for fast keyword search
-- Mobile/Web app uploads a media via Media Service. When status turns into "processed", DynamoDB Streams triggers a `Lambda` function to index new or updated metadata in OpenSearch
+- Mobile/Web app uploads a media via Media Service. When status turns into "processed":
+  - DynamoDB Streams (**Event Streams**) triggers a `Lambda` function to index new or updated metadata in OpenSearch
+  - or push new/updated metadata to OpenSearch (or ElasticSearch) via a **Message Queue**.
+  - @Todo [compare](https://www.geeksforgeeks.org/message-queues-vs-event-streams-in-system-design/) between **Event Streams** and **Message Queue**
 
 ## Query Processing
 - Mobile/Web app sends `GET /api/search?query=hiking&media_type=video` to the Search Service
