@@ -17,4 +17,5 @@ III.**4xx**:
 
 IV.**5xx**:
 - **500**: internal server error
+- **502**: **@Todo**
 - **503**: service unavailable - The server cannot handle the request (because it is overloaded or down for maintenance)
