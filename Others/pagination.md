@@ -1,2 +1,3 @@
-- pagination cursor (timestamp of last seen item)
+- pagination cursor (timestamp of last seen item) to avoid deep pagination issues
+- pagination offset
 - @Todo
