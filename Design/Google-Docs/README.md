@@ -1,11 +1,12 @@
 # Question
-- Let's design an real-time text editor like Google Docs
+- Let's design an real-time document editor like Google Docs
 
 # Clarify Requirements
 
 ## Functional Requirements
-- Users can create, view, delete, and edit a text document
-- Users can share with others to view, edit a text document
+- A document might contain text, image, video, or pdf (**@Todo** editing pdf what does this mean?)
+- Users can create, view, delete, and edit a document
+- Users can share with others to view, edit a document
 - Multiple users can edit simultaneously on the same document
 
 ## Non-Functional Requirements
