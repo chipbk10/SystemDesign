@@ -35,10 +35,13 @@
 - we aim for low latency in the range of 100-500ms for updates to propagate
 - of course, the latency depends on the network condition. However, we should ensure a fast and efficient conflict-resolution algorithm
 - beside, we should use a **global CDN**, and can monitor and optimize for **tail latency**
+  - **@Todo**
 
 5. **How do you ensure the security in our system?**
-- encyrption in transit: we can use TLS for data transfer
+- encryption in transit: we can use TLS for data transfer
+- encryption data at rest: we should encrypt all data in physical storage, ensuring that documents remain secure even if physical storage is compromised.
+  - normally, the cloud storage services (e.g., AWS S3, or GCS) encrypt data by default
 - protection against unauthorized access:
   - we can use authentication systems (e.g., OAuth to check with identity providers like Google Accounts) to verify user identities
+  - require authentication tokens (e.g., JWTs) for all API requests to prevent unauthorized access to endpoints
   - we can implement RBAC (role-based access control) or use ACLs (access control lists) to check the permissions
-  - 
