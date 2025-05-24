@@ -4,7 +4,10 @@
 # Clarify Requirements
 
 ## Functional Requirements
-- A document might contain text, image, video, or pdf (**@Todo** editing pdf what does this mean?)
+- A document might contain text, image, video, or pdf
+  - **@Todo**: editing pdf what does this mean?
+  - plain text
+  - formatted text (like JSON/HTML, MD, languages: java, python,etc.)
 - Users can create, view, delete, and edit a document
 - Users can share with others to view, edit a document
 - Multiple users can edit simultaneously on the same document
