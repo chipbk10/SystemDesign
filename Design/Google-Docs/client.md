@@ -20,25 +20,20 @@
         }
       }
     ``` 
-  - a deltas: contains 2 operations - inserting a space at position 5 and then inserting "World" after that
+  - a deltas: contains 2 operations for a single document - inserting a space at position 5 and then inserting "World" after that
     ```json
     {
       "document_id": "doc123",
       "delta": [
-        {
-          "op": "insert",
-          "value": " ",
-          "offset": 5
-        },
-        {
-          "op": "insert",
-          "value": "World",
-          "offset": 6,
-          "attributes": {
-            "italic": true
-          }
-        }
+        {"op": "insert", "value": "Hello", "offset": 0},
+        {"op": "insert", "value": " ", "offset": 5}
       ]
     }
     ```
-3. safdsf
+3. **How do you handle editing in the offline mode?**
+- we can queue the offline changes in local storage
+
+4. **Tell me about the local storage from the web/mobie app**
+- for web app, we can use IndexDB **@Todo**
+- for native mobile app, we can use  SQLite
+- for cross-platform: we can a lightweight NoSQL database (e.g., Hive or Sembast)
