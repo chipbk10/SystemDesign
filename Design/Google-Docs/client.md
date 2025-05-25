@@ -31,7 +31,10 @@
     }
     ```
 3. **How do you handle editing in the offline mode?**
-- we can queue the offline changes in local storage
+- we can queue the offline changes (deltas) in local storage
+- when reconnected:
+  - we can send all deltas of the same documents in sequential order
+  - we send all deltas of different documents in parallel to minimize the sync time 
 
 4. **Tell me about the local storage from the web/mobie app**
 - for web app, we can use IndexDB **@Todo**
