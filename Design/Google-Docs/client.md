@@ -31,10 +31,11 @@
     }
     ```
 3. **How do you handle editing in the offline mode?**
-- we can queue the offline changes (deltas) in local storage
+- we can queue the offline changes (deltas) in local storage (by storing the deltas together with the timestamp)
 - when reconnected:
-  - we can send all deltas of the same documents in sequential order
-  - we send all deltas of different documents in parallel to minimize the sync time 
+  - we can send all deltas of the same documents sequentially to ensure the order and consistency
+  - we send all deltas of different documents in parallel to minimize the sync time
+- we send deltas to Real-Time Service which uses OT/CRDT to resolve the conflicts, and then store resolved documents in NoSQL database (e.g., AWS DynamoDB, or GCS). Finally broadcasts updates to connected clients via WebSocket
 
 4. **Tell me about the local storage from the web/mobie app**
 - for web app, we can use IndexDB **@Todo**
