@@ -65,8 +65,12 @@
 - we will cache document state locally (e.g., in browser storage, etc.) to allow editing offline
 - we will sync changes when reconnected
 
-2. abcd
-
+2. **Why don't we store document content and metadata in SQL database?**
+- SQL lacks native real-time sync (in comparison with NoSQL with streams or listeners). **@Todo: more specific about real-time sync**
+- SQL databases scale vertically (e.g., adding more CPUs, memory, or storage), or with read replicas, but horizontal scaling (e.g., by sharding) is complex and may introduce latency for global users. Real-time editing (write operations) with thousands of concurrent users could downgrade performance
+- storing a big content (e.g., large text, or store images, videos, pdfs as blobs) will slow queries and increase the storage cost in comparison with NoSQL
+- **eventual consistency: @Todo**
+- **@Todo read more: ** [challenges on scaling SQL](https://www.designgurus.io/blog/scaling-sql-databases)
 
 
 ## Notes
