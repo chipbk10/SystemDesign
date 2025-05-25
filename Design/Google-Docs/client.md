@@ -38,6 +38,6 @@
 - we send deltas to Real-Time Service which uses OT/CRDT to resolve the conflicts, and then store resolved documents in NoSQL database (e.g., AWS DynamoDB, or GCS). Finally broadcasts updates to connected clients via WebSocket
 
 4. **Tell me about the local storage from the web/mobie app**
-- for web app, we can use IndexDB **@Todo**
+- for web app, we can use IndexDB (**@Todo**)
 - for native mobile app, we can use  SQLite
 - for cross-platform: we can a lightweight NoSQL database (e.g., Hive or Sembast)
