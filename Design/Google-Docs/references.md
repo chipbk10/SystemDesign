@@ -1,0 +1,2 @@
+- [ByteByteGo - How to design Google Docs](https://bytebytego.com/guides/how-to-design-google-docs/)
+- [RBAC vs ACL](https://frontegg.com/guides/rbac-vs-acl)
