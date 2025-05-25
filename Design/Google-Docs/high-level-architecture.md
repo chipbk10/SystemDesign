@@ -13,7 +13,7 @@
 # Application Layer
 
 ## Authentication/Authorization Service
-- identify user
+- receive user's identity from API GateWay
 - check the user's access control
 
 ## Document Service
@@ -22,7 +22,10 @@
 - handle sharing a document
 
 ## Real-Time Sync Service
-- use WebSocket to push updates to the client layer
+- uses WebSocket to push updates to the client layer
+
+## Messaging Service
+- uses Notification Service (e.g., AWS SNS or Google Cloud Pub/Sub) to notify the offline collaborators (e.g., via email, mobile push notification, sms, etc.) for the significant events  on a document (e.g., deletion, major updates like title change, a new collaborator is added in the list while he is offline)
 
 # Store Layer
 
@@ -74,6 +77,16 @@
 - **eventual consistency: @Todo**
 - **@Todo read more: ** [challenges on scaling SQL](https://www.designgurus.io/blog/scaling-sql-databases)
 
+3. **What is the difference between Real-Time Sync Service and Messaging Service?**
+- Rea-Time Sync service is to push the resolved changes on a document to the online collaborators
+- Messaging Service is to notify the changes on a document to the offline collaborators
+- Online users get updated via WebSocket
+- Offline users are queued for notification via the Messaging Service
+
+4. **How do we get a list of offline collaborators on a document?**
+- via WebSocket connection state
+- or via a session in the caching service
+- **@Todo**
 
 ## Notes
 - **GCF**: Google Cloud Firestore
