@@ -11,13 +11,15 @@
 - routes REST and WebSocket requests to backend services
 
 # Application Layer
-- handle CRUD (create/read/update/delete) on documents
-- resolve the conflicts for real-time collaboration
-- handle sharing a document
 
 ## Authentication/Authorization Service
 - identify user
 - check the user's access control
+
+## Document Service
+- handle CRUD (create/read/update/delete) on documents
+- resolve the conflicts for real-time collaboration
+- handle sharing a document
 
 ## Real-Time Sync Service
 - use WebSocket to push updates to the client layer
