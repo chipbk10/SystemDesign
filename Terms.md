@@ -5,7 +5,7 @@
 [backward-compatibility]()
 
 - **C**:
-[certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [cdn](), [cors](), [cache-control](), [consistency](), [cap-theorem](), [container](), [csprng]()
+[certificate](https://github.com/chipbk10/SystemDesign/blob/master/certificate.md), [circuit-breaker](https://github.com/chipbk10/SystemDesign/blob/master/circuit-breaker.md), [cdn](), [cors](), [cache-control](), [consistency](), [cap-theorem](), [container](), [csprng](), [crdt]()
 
 - **D**:
 [dns](), [downtime](), [decoding](), [deserialization](), [docker]()
@@ -35,7 +35,7 @@
 [no-sql](), [ntp]()
 
 - **O**:
-[oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc](https://github.com/chipbk10/SystemDesign/blob/master/oidc.md), [os](), [otp]()
+[oauth](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [oidc](https://github.com/chipbk10/SystemDesign/blob/master/oidc.md), [os](), [otp](), [ot]()
 
 - **P**:
 [partial-handshake](), [pre-shared-key](https://github.com/chipbk10/SystemDesign/blob/master/partial-handshake.md), [pepper](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [password](https://github.com/chipbk10/SystemDesign/blob/master/password.md), [pkce](https://github.com/chipbk10/SystemDesign/blob/master/oauth.md), [polling](), [partitioning](), [network-partitions]()
