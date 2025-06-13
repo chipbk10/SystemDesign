@@ -4,7 +4,7 @@
 
 ## Operation-based CRDTs (CmRDT)
 - rely on operations (e.g., insert, delete, update) to define the state
-- each operation includes metadata (e.g., unique IDs, timestamps) to ensure conflict-free merging
+- each operation includes metadata (e.g., **unique IDs**, **timestamps**) to ensure conflict-free merging
 - CmRDTs don't always store all operations indefinitely. To save space, they may periodically create snapshot of the current state and compact (e.g., combine many operations into a single operation) or prune (e.g., delete obsolete operations that no longer affect the current state) operations
 - CmRDTs ensure `eventual consistency` because operations are **commutative** and **idempotent**
 
