@@ -48,3 +48,8 @@ GET /posts/_search
 1. Why don't we call as a `coordinating shard`?
 2. How to mitigate the coordinating node overwhelming?
 3. Can you tell me other cloud-solutions (AWS Open Search, or Elastic Cloud)?
+
+# Reference
+- [Elastic Search Deep Dive](https://www.youtube.com/watch?v=PuZvF2EyfBM&t=1236s&ab_channel=HelloInterview-SWEInterviewPreparation)
+- [Grok](https://x.com/i/grok/share/TxgUzpRO9XmGMVebSM4BkPQPJ)
+- [How to scale ElasticSearch?](https://medium.com/@kakarotdevv/how-to-scale-elasticsearch-36890cf6fe10)
