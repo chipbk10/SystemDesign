@@ -25,4 +25,26 @@ POST /posts/_doc/1
 
 
 ## Searching
+- submit a search query
+```json
+GET /posts/_search
+{
+  "query": {
+    "match": { "description": "California beach" }
+  }
+}
+```
+- the query is sent to a coordinating node, which identifies which shards need to be queried (all primary or replicas)
+- at each shard, the same process happens:
+  - analyze + tokenize (e.g., to `["california", "beach"]`)
+  - check the relevant field's (e.g., in this case is `description`) inverted index
+  - Lucene calculates a relevance score for matches
+- each shard processes the query independently (in parallel), and then returns its top matching to the coordinating node
+- the coordinating node merges result, sort them by relevance score, and removes duplicates
+- the coordinating node fetches the full document for the matching IDs (e.g., Doc1) from the `_source` field
 - @Todo
+
+# Questions
+1. Why don't we call as a `coordinating shard`?
+2. How to mitigate the coordinating node overwhelming?
+3. Can you tell me other cloud-solutions (AWS Open Search, or Elastic Cloud)?
