@@ -5,3 +5,4 @@
 - support 30 languages
 - timeout for each test case - 1 second
 - timeout for a submission - 30 seconds (including: environment setup, code compilation and execution against all tests case, and communication overhead)
+- **@Todo**: how many submissions per day?
