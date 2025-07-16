@@ -1,0 +1,7 @@
+- 1M users in total
+- 10k active users at peak time
+- in total 5K problems
+- maximum 1K Test Cases for each problem
+- support 30 languages
+- timeout for each test case - 1 second
+- timeout for a submission - 30 seconds (including: environment setup, code compilation and execution against all tests case, and communication overhead)
