@@ -5,6 +5,7 @@
 
 ## Functional Requirements
 - users can submit code, execute it against test cases, and receive results in real-time
+- users can submit code in contest and see the leaderboard
   
 ## Non-Functional Requirements
 - availability:
