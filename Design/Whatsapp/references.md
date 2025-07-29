@@ -1,2 +1,3 @@
-- [Grok: chat](https://x.com/i/grok?conversation=1948278221285580946)
-- [Hello Interview: Design Whatsapp w/ a Ex-Meta Senior Manager](https://www.youtube.com/watch?v=cr6p0n0N-VA&ab_channel=HelloInterview-SWEInterviewPreparation)
+- [Grok](https://x.com/i/grok?conversation=1948278221285580946)
+- [Hello Interview](https://www.youtube.com/watch?v=cr6p0n0N-VA&ab_channel=HelloInterview-SWEInterviewPreparation)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/system-design/designing-whatsapp-messenger-system-design/)
