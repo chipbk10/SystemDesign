@@ -1,5 +1,5 @@
 ## 1. What is blockchain technology?
-- **Blockchain** is just a **decentralized, distributed digital ledger** that records transactions across many computers (nodes) in a way that ensures the data is secure, transparent, immutable, and tamper-resistant
+- **Blockchain** is a **decentralized, distributed digital ledger** that records transactions across many computers (nodes) in a way that ensures the data is secure, transparent, immutable, and tamper-resistant
   - **Decentralization**: no single authority (like a bank) controls it. Copied of the ledger exist on thousands of nodes
   - **Immutability**: once data is added, it cannot be altered without consensus from the network
   - **Transparency**: anyone can view transaction (in public blockchains)
