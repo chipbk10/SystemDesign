@@ -56,5 +56,12 @@
   - the longest chain will win
 
 ## 4. Broadcast, how it works behind the scene?
+- @Todo (via Peer-To-Peer Goship protocol)
+
+## References
+
+- [Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
+- [Blockchain 101 - Part 2 - Public / Private Keys and Signing](https://www.youtube.com/watch?v=xIDL_akeras&t=315s)
+
 
 
