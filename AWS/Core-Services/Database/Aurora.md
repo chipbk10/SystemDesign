@@ -1,0 +1,13 @@
+# ✅ Amazon Aurora
+- **Aurora** = AWS-managed relational DB compatible with MySQL and PostgreSQL.
+- **Scope**: Regional, with Multi-AZ replication for high availability.
+- **Performance**: Up to 5× MySQL and 3× PostgreSQL speed.
+- **Storage**: Auto-scales up to 128 TB.
+- **Aurora Serverless**:
+  - On-demand, auto-scaling database capacity.
+  - Ideal for variable or unpredictable workloads.
+  - No need to manage instances—pay per use.
+- **Replication**:
+  - Aurora Replicas (up to 15) for read scaling.
+  - Aurora Global Database for multi-region low-latency reads and disaster recovery.
+- **Backups**: Continuous to S3, point-in-time restore.
