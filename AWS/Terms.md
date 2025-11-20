@@ -1,2 +1,4 @@
 - **Provisioning**: means resource creation and configuration
 - **Ephemeral**: short-term
+- **Serverless**: means you don't manage servers (e.g., no manual provisioning of computer or storage), and the service **automatically adjusts resources based on demand**
+- 
