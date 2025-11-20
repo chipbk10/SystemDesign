@@ -11,3 +11,6 @@
   ]
 }
 ```
+- compare with DynamoDB:
+  - DynamoDB supports nested attributes (maps and lists), so you can store complex data similar to JSON.
+  - however, DocumentDB supports document queries @Todo
