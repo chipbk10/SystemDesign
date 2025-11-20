@@ -6,4 +6,5 @@
   - **Instance types**: different configurations for CPU, memory, storage, and networking
   - **Pricing Models**: On-Demand, Reserved, Spot, and Saving Plans
   - **Region and Availability Zones**: choose where your instances run for redundancy and low latency
-  - 
+- Use case:
+  - can be used for hosting application, running workload, or replacing physical server   
