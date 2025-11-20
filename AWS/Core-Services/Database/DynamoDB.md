@@ -1,0 +1,4 @@
+- **DynamoDB** = NoSQL (Key-Value & Document)
+- **Serverless** by design
+- **Auto-scaling** for throughput and storage
+- **High availability** across multiple AZs
