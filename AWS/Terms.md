@@ -1,0 +1,1 @@
+- **Provisioning**: means resource creation and configuration
