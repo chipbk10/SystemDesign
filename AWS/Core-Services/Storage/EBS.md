@@ -5,4 +5,4 @@
 - a snapshot of EBS is stored on S3, can be used to recover in case the AZ fails or gets corrupted
 - EBS uses AWS network protocol (not HTTP) to transfer data to EC2
 - we can attach multiple EBS to one EC2 instance
-- EBS can be used to store a root volume (OS, and boot files)
+- EBS can be used to store **a root volume** (OS, and boot files), local database (like MySQL)
