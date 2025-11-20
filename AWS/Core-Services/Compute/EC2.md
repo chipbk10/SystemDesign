@@ -1,5 +1,4 @@
-- EC2 (Elastic Compute Cloud)
-- EC2 is used for running virtual servers (called **instances**) in the cloud
+- EC2 (Elastic Compute Cloud) is used for running virtual servers (called **instances**) in the cloud
 - Key features:
   - **On-demand instances**: pay only for what you use
   - **Scalability**: easily scale up and down
