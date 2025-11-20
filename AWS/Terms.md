@@ -1,1 +1,2 @@
 - **Provisioning**: means resource creation and configuration
+- **Ephemeral**: short-term
