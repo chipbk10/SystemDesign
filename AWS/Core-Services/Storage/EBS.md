@@ -1,0 +1,6 @@
+- **Amazon Elastic Block Store (EBS)** is a block-level storage service for use with EC2 instances.
+- It provides **persistent storage**: data remains even after the instance stops or terminates.
+- Volumes are **network-attached**, not physically tied to the EC2 host.
+- EBS, and EC2 are tied to a single AZ
+- a snapshot of EBS is stored on S3, can be used to recover in case the AZ fails or gets corrupted
+- EBS uses AWS network protocol (not HTTP) to transfer data to EC2
