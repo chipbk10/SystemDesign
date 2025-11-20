@@ -11,4 +11,6 @@
     - **Saving Plans**: commit to a consistent amount of usage (in $ per hour) for 1 or 3 years, beyond that you pay as you go
   - **Region and Availability Zones**: choose where your instances run for redundancy and low latency
 - Use case:
-  - can be used for hosting application, running workload, or replacing physical server   
+  - can be used for hosting application, running workload, or replacing physical server
+
+- an EC2 instance **is tied to a single AZ** only
