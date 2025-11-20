@@ -4,7 +4,7 @@
 - Supported engines: MySQL, PostgreSQL, MariaDB, Oracle, SQL Server, and Amazon Aurora.
 - Key features:
   - Automated backups, patching, and failover.
-  - Multi-AZ deployment for high availability.
+  - Multi-AZ deployment for high availability. **Tied to a single region**
   - Read replicas for scaling read traffic.
 - Benefits: No need to manage hardware, OS, or DB software manually.
 
