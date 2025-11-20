@@ -1,0 +1,8 @@
+- Lambda is a **serverless** compute service that runs your code without **provisioning** or managing servers.
+- Use case: short-running tasks, microservices, automation
+- Key Features:
+  - Event-driven: trigger from S3, DynamoDB, API Gateway
+  - Automatic scaling
+  - No infrastructure management
+- Billing based on number of requests and execution time (**maximum is 15 minutes**)
+- Main idea is you provide code, and AWS takes care of the runtime environment (OS, language runtime, security patches) for you
