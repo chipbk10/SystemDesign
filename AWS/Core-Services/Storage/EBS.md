@@ -6,3 +6,5 @@
 - EBS uses AWS network protocol (not HTTP) to transfer data to EC2
 - we can attach multiple EBS to one EC2 instance
 - EBS can be used to store **a root volume** (OS, and boot files), local database (like MySQL)
+- You can increase the size of an EBS volume on the fly without stopping your EC2 instance. This is called EBS Elastic Volumes.
+- EBS pricing is based on **provisioned** size. If you allocate a 100 GB EBS volume, you pay for 100 GB even if you only use 10 GB.
