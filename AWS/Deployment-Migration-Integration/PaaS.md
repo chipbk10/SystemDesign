@@ -1,0 +1,2 @@
+- **PaaS** is about **deploying application without managing infrastructure**
+- Use case: **Elastic Beanstalk**
