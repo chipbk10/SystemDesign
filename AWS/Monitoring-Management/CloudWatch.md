@@ -2,6 +2,7 @@
 - **What it is**: A monitoring and observability service for AWS resources and applications.
 - **Purpose**: Collects metrics, logs, and events so you can:
   - Monitor resource performance (CPU, memory, network).
+  - Store logs (e.g, VPC Flow logs, Lambda logs, API Gateway logs, application logs from EC2, etc.)
   - Set alarms to trigger actions (e.g., send notifications, auto-scale).
   - Visualize data in dashboards.
 - **Key point**: Helps you detect issues and automate responses.
