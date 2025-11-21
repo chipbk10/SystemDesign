@@ -10,6 +10,10 @@
 
 ### Scaling Resources
 - If CPU usage on an EC2 instance exceeds a threshold, CloudWatch can trigger an Auto Scaling policy to add more instances.
+- So the flow looks like this:
+  - **CloudWatch Alarm** detects high CPU usage.
+  - **Alarm** triggers **Auto Scaling** policy → adds more EC2 instances.
+  - **Load Balancer** automatically includes new instances in its target group and starts routing traffic to them.
 
 ### Restarting or Stopping Instances
 - If an instance becomes unhealthy, CloudWatch can invoke an AWS Systems Manager Automation document or an AWS Lambda function to restart or stop it.
