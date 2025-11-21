@@ -16,3 +16,6 @@
 
 ### Scope: 
 - IAM is global, not region-specific.
+
+### Billing
+- IAM is a free service
