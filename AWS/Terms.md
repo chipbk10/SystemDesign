@@ -1,6 +1,7 @@
 - **Provisioning**: means resource creation and configuration
 - **Ephemeral**: short-term
 - **Serverless**: means you don't manage servers (e.g., no manual provisioning of computer or storage), and the service automatically adjusts resources based on demand
+- **Fully Managed Service**: @Todo
 - **Point-in-time**: Rrestore your DB to an exact timestamp within the backup window.
 - **Firewall**: control traffic going into and coming out of a resource (network, computer, etc.)
 - **Rotate keys**: change the password regularly
