@@ -2,3 +2,4 @@
 - **Ephemeral**: short-term
 - **Serverless**: means you don't manage servers (e.g., no manual provisioning of computer or storage), and the service automatically adjusts resources based on demand
 - **Point-in-time**: Rrestore your DB to an exact timestamp within the backup window.
+- **Firewall**: control traffic going into and coming out of a resource (network, computer, etc.)
