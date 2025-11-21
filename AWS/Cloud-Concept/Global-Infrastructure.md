@@ -1,0 +1,4 @@
+- **Data Center**: Physical facility where AWS servers are housed.
+- **Availability Zone (AZ)**: One or more data centers within a region, designed for fault isolation.
+- **Region**: A geographic area containing multiple AZs (e.g., us-east-1).
+- **Edge Location**: Part of the AWS Content Delivery Network (**CDN**) for caching content closer to users (used by **CloudFront**).
