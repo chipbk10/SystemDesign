@@ -14,10 +14,7 @@
 - **Features**:
   - Automatic rotation of secrets.
   - Integration with RDS, Lambda, etc.
+- **Key point**: Secrets are encrypted using KMS keys under the hood.
 
-Key point: Secrets are encrypted using KMS keys under the hood.
-
-
-✅ Relationship:
-
-Secrets Manager uses KMS to encrypt secrets before storing them.
+## ✅ Relationship:
+- Secrets Manager uses KMS to encrypt secrets before storing them.
