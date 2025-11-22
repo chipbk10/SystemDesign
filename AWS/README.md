@@ -44,7 +44,8 @@
 
 ## Security & Compliance
 - [Inspector](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Inspector.md)
-
+- [IAM](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/IAM.md)
+- [IAM Identity Center](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/IAM-Identity-Center.md)
 
 ## Deployment & Migration
 - [Auto Scaling](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Auto-Scaling.md)
