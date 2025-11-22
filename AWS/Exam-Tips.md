@@ -11,3 +11,4 @@
 - **CloudHSM**: provides **dedicated hardware devices** in the AWS Cloud for **cryptographic** operations.
 - Detect **sensitive data** in S3: [Amazon Macie](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Amazon-Macie.md)
 - **Elastic Beanstalk** is a **PaaS** as only manage the applications and the data.
+- **Read Replicas** is for scalability by offloading read traffic
