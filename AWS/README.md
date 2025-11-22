@@ -22,6 +22,15 @@
 - [EBS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EBS.md)
 - [EFS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EFS.md)
 
+### Compute
+- [EC2](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/EC2.md)
+- [Lambda](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Lambda.md)
+- [Elastic Beanstalk](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Elastic-Beanstalk.md)
+- [ECR](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/ECR.md)
+- [ECS](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/ECS.md)
+- [EKS](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/EKS.md)
+- [Fargate](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Fargate.md)
+
 ## Monitoring & Management
 - [System Manager](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Monitoring-Management)
 - [CloudTrail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudTrail.md)
@@ -43,7 +52,7 @@
 - [CodeCommit](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeCommit.md), [CodeDeploy](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeDeploy.md), [CodePipeline](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodePipeline.md)
 
 ## Others
-- CodeDeploy, System Manager, OpsWorks
+- OpsWorks, Lightsail, Fargate
 
 ## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
 
