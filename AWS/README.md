@@ -22,6 +22,7 @@
 - [S3](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/S3.md) - serverless
 - [EBS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EBS.md)
 - [EFS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EFS.md)
+- [Store Gateway](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/Store-Gateway.md)
 
 ### Compute
 - [AMI](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/AMI.md)
