@@ -2,3 +2,4 @@
 - serverless databases: Aurora, DynamoDB, Keyspaces
 - serverless compute: Lambda, Fargate
 - single-sign-on: [IAM Identity Center](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/IAM-Identity-Center.md)
+- **on-demand instance** is billed **per minute**
