@@ -1,7 +1,7 @@
 ### ✅ **What is Redshift?**
 
 *   A **columnar storage database** optimized for **OLAP (Online Analytical Processing)**.
-*   Encrypts data automatically by default
+*   Encrypts data automatically - optional setting
 *   Built for **big data analytics**, not transactional workloads.
 *   Uses **SQL** for querying and integrates with BI tools like Tableau, Power BI, QuickSight.
 
