@@ -20,6 +20,12 @@
 - [EBS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EBS.md)
 - [EFS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EFS.md)
 
+## Security & Compliance
+- [Inspector](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Inspector.md)
+
+## Others
+- 
+
 ## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
 
 ## [Exam Tips](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Exam-Tips.md)
