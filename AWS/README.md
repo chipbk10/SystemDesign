@@ -62,6 +62,9 @@
 - [Auto Scaling](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Auto-Scaling.md)
 - [CloudFormation](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CloudFormation.md)
 - [OpsWorks](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/OpsWorks.md)
+  
+### CI/CD
+- [CodeCommit](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeCommit.md), [CodeDeploy](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeDeploy.md), [CodePipeline](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodePipeline.md)
 
 ## Pricing & Billing
 - [Pricing Models](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/Pricing-Models.md)
@@ -70,9 +73,14 @@
 - [Budget](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/CostExplorer-Budget.md)
 - [Pricing Calculator](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/Pricing-Calculator.md)
 - [TCO](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/TCO.md)
-  
-### CI/CD
-- [CodeCommit](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeCommit.md), [CodeDeploy](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeDeploy.md), [CodePipeline](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodePipeline.md)
+
+## Machine Learning
+- [Sage-Maker](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Machine-Learning/Sage-Maker.md)
+- [Rekognition](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Machine-Learning/Rekognition.md)
+- [Lex](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Machine-Learning/Lex.md)
+- [Polly](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Machine-Learning/Polly.md)
+- [Transcribe](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Machine-Learning/Transcribe.md)
+- [Translate](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Machine-Learning/Translate.md)
 
 ## Support
 - [APN Consulting Partners](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/APN-Consulting-Partner.md)
