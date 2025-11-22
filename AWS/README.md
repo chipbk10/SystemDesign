@@ -20,6 +20,12 @@
 - [EBS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EBS.md)
 - [EFS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EFS.md)
 
+## Monitoring & Management
+- [System Manager](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Monitoring-Management)
+- [CloudTrail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudTrail.md)
+- [CloudWatch](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudWatch.md)
+- [Config](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Config.md)
+
 ### Networking
 - [Load Balancer](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/Load-Balancer.md)
   - Application Load Balancer (**ALB**), Network Load Balancer (**NLB**), **ELB**
@@ -30,12 +36,9 @@
 
 ## Deployment & Migration
 - [Auto Scaling](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Auto-Scaling.md)
-
-## Monitoring & Management
-- [System Manager](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Monitoring-Management)
-- [CloudTrail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudTrail.md)
-- [CloudWatch](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudWatch.md)
-- [Config](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Config.md)
+  
+### CI/CD
+- [CodeCommit](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeCommit.md), [CodeDeploy](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeDeploy.md), [CodePipeline](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodePipeline.md)
 
 ## Others
 - CodeDeploy, System Manager, OpsWorks
