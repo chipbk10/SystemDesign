@@ -1,0 +1,1 @@
+- **A penetration test** (often called a pen test) is a simulated cyberattack performed on a system, application, or network to identify security weaknesses before real attackers can exploit them.
