@@ -6,3 +6,4 @@
 - **Firewall**: control traffic going into and coming out of a resource (network, computer, etc.)
 - **Rotate keys**: change the password regularly
 - **OCR**: extract text from image
+- **Agility**: refers to reducing the time required to provision infrastructure resources from weeks to just minutes.
