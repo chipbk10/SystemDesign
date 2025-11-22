@@ -6,3 +6,4 @@
 - Chef and Puppet => [AWS OpsWorks](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/OpsWorks.md)
 - compare cost before migration from on-premises to cloud: [AWS CTO](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/TCO.md)
 - Cost Explorer **can track under-utilized EC2 instances**
+- Cost Explorer can use your historical data to **predict future costs and usage for up to 12 months**.
