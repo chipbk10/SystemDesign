@@ -4,3 +4,4 @@
 - single-sign-on: [IAM Identity Center](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/IAM-Identity-Center.md)
 - **on-demand instance** is billed **per minute**
 - Chef and Puppet => [AWS OpsWorks](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/OpsWorks.md)
+- compare cost before moving from on-premises to cloud: [AWS CTO](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/TCO.md)
