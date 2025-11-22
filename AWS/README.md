@@ -60,6 +60,10 @@
 ## Pricing & Billing
 - [Pricing Models](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/Pricing-Models.md)
   - On-Demand, Reserved, Spot, Saving Plans, Dedicated Host
+- [Cost Explorer](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/CostExplorer-Budget.md)
+- [Budget](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/CostExplorer-Budget.md)
+- [Pricing Calculator](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/Pricing-Calculator.md)
+- [TCO](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/TCO.md)
   
 ### CI/CD
 - [CodeCommit](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeCommit.md), [CodeDeploy](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeDeploy.md), [CodePipeline](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodePipeline.md)
