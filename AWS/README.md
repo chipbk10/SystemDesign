@@ -3,6 +3,8 @@
 ## Cloud Concept
 - [6 Advantages of Cloud Computing](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Cloud-Concept/Advantages-Cloud-Computing.md)
   - pay-as-you-go, economies, easily-scale-out-in, speed, no-infrastructure-maintenance, go-global
+- [Types of Cloud Computing](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Cloud-Concept/Type-Cloud-Computing.md)
+  - IaaS, PaaS, SaaS
 - [Global Infrastructure](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Cloud-Concept/Global-Infrastructure.md)
   - Data Center, Availability Zone (AZ), Region, Edge Location (CDN)
 - [Share Responsibility Model](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Cloud-Concept/Share-Responsibility-Model.md)
