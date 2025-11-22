@@ -9,11 +9,16 @@
 
 ### Database
 - [RDS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/RDS.md)
-- [Aurora](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Aurora.md)
-- [DynamoDB](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/DynamoDB.md)
+- [Aurora](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Aurora.md) - serverless
+- [DynamoDB](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/DynamoDB.md) - serverless
 - [DocumentDB](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/DocumentDB.md)
 - [Neptune](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Neptune.md)
-- [Keyspaces](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Keyspaces.md)
+- [Keyspaces](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Keyspaces.md) - serverless
+
+## Storage
+- [S3](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/S3.md) - serverless
+- [EBS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EBS.md)
+- [EFS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EFS.md)
 
 ## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
 
