@@ -7,3 +7,4 @@
 - **Rotate keys**: change the password regularly
 - **OCR**: extract text from image
 - **Agility**: refers to reducing the time required to provision infrastructure resources from weeks to just minutes.
+- **StandBy**: it is not used for reads or writes, it's for failover or disaster recovery
