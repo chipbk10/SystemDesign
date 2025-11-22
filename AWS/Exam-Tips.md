@@ -12,3 +12,4 @@
 - Detect **sensitive data** in S3: [Amazon Macie](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Amazon-Macie.md)
 - **Elastic Beanstalk** is a **PaaS** as only manage the applications and the data.
 - **Read Replicas** is for scalability by offloading read traffic
+- +**10 year**s storage: **Amazon S3 Glacier (or Glacier Deep Archive)**
