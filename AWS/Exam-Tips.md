@@ -1,1 +1,2 @@
 - provide a functionality with the **LEAST operational** overhead for **any scale** => [Serverless](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Cloud-Concept/Serverless.md)
+- serverless databases: Aurora, DynamoDB, Keyspaces
