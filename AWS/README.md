@@ -14,3 +14,7 @@
 - [DocumentDB](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/DocumentDB.md)
 - [Neptune](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Neptune.md)
 - [Keyspaces](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Keyspaces.md)
+
+## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
+
+## [Exam Tips](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Exam-Tips.md)
