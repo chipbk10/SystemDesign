@@ -8,3 +8,4 @@
 - Cost Explorer **can track under-utilized EC2 instances**
 - Cost Explorer can use your historical data to **predict future costs and usage for up to 12 months**.
 - AWS Acceptable Use Policy (AUP): **Defines prohibited uses of AWS services** (e.g., illegal activities, security violations, spam, harmful content).
+- **CloudHSM**: provides **dedicated hardware devices** in the AWS Cloud for **cryptographic** operations.
