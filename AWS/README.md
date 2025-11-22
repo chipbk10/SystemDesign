@@ -53,6 +53,10 @@
 
 ## Deployment & Migration
 - [Auto Scaling](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Auto-Scaling.md)
+
+## Pricing & Billing
+- [Pricing Models](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Pricing-Billing/Pricing-Models.md)
+  - On-Demand, Reserved, Spot, Saving Plans, Dedicated Host
   
 ### CI/CD
 - [CodeCommit](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeCommit.md), [CodeDeploy](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeDeploy.md), [CodePipeline](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodePipeline.md)
