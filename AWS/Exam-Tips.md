@@ -13,3 +13,4 @@
 - **Elastic Beanstalk** is a **PaaS** as only manage the applications and the data.
 - **Read Replicas** is for scalability by offloading read traffic
 - +**10 year**s storage: **Amazon S3 Glacier (or Glacier Deep Archive)**
+- **Block Storage**: **EBS**, **Instance Store**
