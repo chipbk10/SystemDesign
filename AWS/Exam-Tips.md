@@ -1,0 +1,1 @@
+- provide a functionality with the **LEAST operational** overhead => **serverless**
