@@ -66,6 +66,7 @@
 - [Secret Manager](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/KMS-SecretsManager.md)
 - [CloudHSM](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudHSM.md)
 - [Amazon Macie](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Amazon-Macie.md)
+- [Penetration Testing](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Penetration-Testing.md)
 
 ## Deployment & Migration
 - [Auto Scaling](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Auto-Scaling.md)
