@@ -36,6 +36,7 @@
 - [Fargate](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Fargate.md)
 
 ## Monitoring & Management
+- [X-Ray](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/X-Ray.md)
 - [System Manager](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/System-Manager.md)
 - [CloudTrail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudTrail.md)
 - [CloudWatch](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudWatch.md)
