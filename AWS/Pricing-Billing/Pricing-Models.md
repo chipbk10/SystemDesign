@@ -1,5 +1,5 @@
 - **Pricing Models**:
-    - **On-Demand**: pay-as-you-go, no discount, best for short-term, unpredictable workloads that cannot be interrupted
+    - **On-Demand**: pay-as-you-go (per **minute**), no discount, best for short-term, unpredictable workloads that cannot be interrupted
     - **Reserved**: 1-3 years term, discount 72%, best for steady-state or predictable workloads
     - **Spot**: unused EC2 capacity, discount 90%, can be interrupted by AWS when capacity is needed
     - **Saving Plans**: commit to a consistent amount of usage (in $ per hour) for 1 or 3 years, beyond that you pay as you go
