@@ -39,6 +39,11 @@
 - [Fargate](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Fargate.md) - serverless
 - [LightSail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/LightSail.md)
 
+### Networking
+- [Networking](https://github.com/chipbk10/SystemDesign/edit/master/AWS/Core-Services/Networking/Networking.md)
+  - VPC, Subnet, Internet Gateway, NAT Gateway, Route Table, Security Group, Network ACLs
+  - VPC peering connection, VPC endpoint, Site-To-Site VPN, Direct Connect
+
 ## Monitoring & Management
 - [X-Ray](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/X-Ray.md)
 - [System Manager](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/System-Manager.md)
