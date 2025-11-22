@@ -26,15 +26,19 @@
 
 ## Security & Compliance
 - [Inspector](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Inspector.md)
-- [CloudTrail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudTrail.md)
-- [CloudWatch](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudWatch.md)
-- [Config](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Config.md)
+
 
 ## Deployment & Migration
 - [Auto Scaling](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Auto-Scaling.md)
 
+## Monitoring & Management
+- [System Manager](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Monitoring-Management)
+- [CloudTrail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudTrail.md)
+- [CloudWatch](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudWatch.md)
+- [Config](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Config.md)
+
 ## Others
-- @Todo
+- CodeDeploy, System Manager, OpsWorks
 
 ## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
 
