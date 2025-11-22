@@ -7,5 +7,5 @@
 - Network Load Balancer is best suited for load balancing of Transmission Control Protocol (TCP), User Datagram Protocol (UDP) and Transport Layer Security (TLS) traffic where extreme performance is required.
 - It distributes traffic, does not scale resources.
 
-### NLB
+### ELB
 - @Todo
