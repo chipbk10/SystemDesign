@@ -1,1 +1,1 @@
-- provide a functionality with the **LEAST operational** overhead => **serverless**
+- provide a functionality with the **LEAST operational** overhead for **any scale** => **serverless**
