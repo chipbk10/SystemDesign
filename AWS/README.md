@@ -28,6 +28,7 @@
 - [AMI](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/AMI.md)
 - [EC2](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/EC2.md)
 - [Lambda](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Lambda.md)
+- [Batch](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/Batch.md)
 - [Elastic Beanstalk](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Elastic-Beanstalk.md)
 - [ECR](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/ECR.md)
 - [ECS](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/ECS.md)
