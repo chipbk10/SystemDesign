@@ -10,3 +10,4 @@
 - AWS Acceptable Use Policy (AUP): **Defines prohibited uses of AWS services** (e.g., illegal activities, security violations, spam, harmful content).
 - **CloudHSM**: provides **dedicated hardware devices** in the AWS Cloud for **cryptographic** operations.
 - Detect **sensitive data** in S3: [Amazon Macie](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Amazon-Macie.md)
+- **Elastic Beanstalk** is a **PaaS** as only manage the applications and the data.
