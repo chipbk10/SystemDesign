@@ -7,6 +7,7 @@ AWS **Storage Gateway** is a **hybrid cloud storage service** that connects your
 *   Acts as a **bridge** between on-premises applications and AWS storage.
 *   Runs as a **virtual appliance** (VM) or hardware appliance in your data center.
 *   Provides **low-latency access** to frequently used data while storing backups or archives in AWS.
+*   All data transferred between the gateway and AWS storage is encrypted using SSL (for all three types of gateways - File, Volume and Tape Gateways).
 
 ***
 
