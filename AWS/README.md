@@ -49,9 +49,13 @@
   - Application Load Balancer (**ALB**), Network Load Balancer (**NLB**), **ELB**
 
 ## Security & Compliance
+- [Organizations](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Organizations.md)
 - [Inspector](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Inspector.md)
 - [IAM](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/IAM.md)
 - [IAM Identity Center](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/IAM-Identity-Center.md)
+- [KMS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/KMS-SecretsManager.md)
+- [Secret Manager](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/KMS-SecretsManager.md)
+- [CloudHSM](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudHSM.md)
 
 ## Deployment & Migration
 - [Auto Scaling](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Auto-Scaling.md)
