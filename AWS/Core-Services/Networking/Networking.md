@@ -22,14 +22,19 @@
 - **VPC endpoint**:
   - A VPC Endpoint allows resources in your VPC (like EC2 instances) to access AWS services (like S3 or DynamoDB) privately,
   - without going through: Public IP addresses, Internet Gateway, NAT Gateway
-- **AWS Site-to-Site VPN**:
-  - is a managed service that securely connects your on-premises network (or another cloud provider) to your AWS VPC over the public internet using an **IPsec VPN tunnel**.
-  - is a backup connectivity when Direct Connect is unavailable.
 - **AWS Direct Connect**:
   - is a networking service that provides a dedicated, private connection between your on-premises data center (or colocation facility) and AWS.
   - Ideal for large data transfers and real-time applications.
   - No public internet is involved for data transfer.
   - Traffic flows through a secure, private connection, reducing latency and improving reliability.
+- **AWS Virtual Private Network (VPN)**
+  - General Concept: AWS VPN refers to the capability to create secure connections between your on-premises network and AWS resources.
+  - It includes two types:
+    - Site-to-Site VPN (network-to-network)
+    - Client VPN (device-to-network)
+- **AWS Site-to-Site VPN**:
+  - is a managed service that securely connects your on-premises network (or another cloud provider) to your AWS VPC over the public internet using an **IPsec VPN tunnel**.
+  - is a backup connectivity when Direct Connect is unavailable.
 - **PrivateLink**:
   - AWS PrivateLink enables private connectivity between VPCs and supported AWS services without traffic traversing the public internet.
   - It ensures secure communication for applications and services.
