@@ -25,7 +25,7 @@
 ### ✅ **Other Important Principles**
 
 *   **Fault Tolerance**: System continues operating even if components fail.
-*   **Elasticity**: Scale **up or down** automatically based on demand.
+*   **Elasticity**: Scale **up or down** automatically based on demand. Scaling here refers to both Horizontal (out&in) and Vertical (up&down)
 *   **Security**: Protect data and workloads using IAM, encryption, and compliance.
 *   **Cost Optimization**: Pay only for what you use; leverage Spot Instances, Reserved Instances.
 *   **Performance Efficiency**: Optimize resources for speed and responsiveness.
