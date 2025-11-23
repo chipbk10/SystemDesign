@@ -62,7 +62,7 @@
 ### Networking
 - [Networking](https://github.com/chipbk10/SystemDesign/edit/master/AWS/Core-Services/Networking/Networking.md)
   - VPC, Subnet, Internet Gateway, NAT Gateway, Route Table, Security Group, Network ACLs
-  - VPC peering connection, VPC endpoint, Site-To-Site VPN, Direct Connect, PrivateLink, Transit Gateway
+  - VPC peering connection, VPC endpoint, Direct Connect, AWS Virtual Private Network (VPN), Site-To-Site VPN, PrivateLink, Transit Gateway
 - [WaveLength](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/WaveLength.md)
 - [Local Zones](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/LocalZones.md)
 - [Route 53](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/Route53.md)
