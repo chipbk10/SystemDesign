@@ -30,6 +30,12 @@
   - Ideal for large data transfers and real-time applications.
   - No public internet is involved for data transfer.
   - Traffic flows through a secure, private connection, reducing latency and improving reliability.
+- **PrivateLink**:
+  - AWS PrivateLink enables private connectivity between VPCs and supported AWS services without traffic traversing the public internet.
+  - It ensures secure communication for applications and services.
+- **Transit Gateway**:
+  - is a highly scalable service that connects multiple VPCs and on-premises networks through a central hub.
+  - It facilitates secure, private connectivity between VPCs and supported services without using the public internet.
 
 
 
