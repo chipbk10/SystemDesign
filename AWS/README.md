@@ -25,11 +25,11 @@
 ### Database
 - [RDS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/RDS.md)
 - [Aurora](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Aurora.md) - serverless
-- [DynamoDB](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/DynamoDB.md) - serverless
-- [DocumentDB](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/DocumentDB.md)
-- [Neptune](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Neptune.md)
+- [DynamoDB](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/DynamoDB.md) - serverless, default encryption
+- [DocumentDB](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/DocumentDB.md) - default encryption
+- [Neptune](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Neptune.md) - default encryption
 - [Keyspaces](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Keyspaces.md) - serverless
-- [Redshift](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Redshift.md)
+- [Redshift](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Redshift.md) - default encryption
 
 ### Storage
 - [S3](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/S3.md) - serverless
