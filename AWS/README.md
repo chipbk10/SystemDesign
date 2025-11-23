@@ -123,7 +123,7 @@
 - [Enterprise Support](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Enterprise-Support.md)
 
 ## Others
-- GuardDuty, AWS MFA (virtual, hardware, u2f)
+- GuardDuty, AWS MFA (virtual, hardware, u2f), AWS SDK
 
 ## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
 
