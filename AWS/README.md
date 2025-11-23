@@ -86,7 +86,6 @@
 - [CLI](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/Management/CLI.md)
 - [SDK](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/Management/SDK.md)
 
-
 ## Security & Compliance
 - [Organizations](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Organizations.md)
 - [Inspector](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Inspector.md)
@@ -98,6 +97,7 @@
 - [CloudHSM](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudHSM.md)
 - [Amazon Macie](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Amazon-Macie.md)
 - [Penetration Testing](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Penetration-Testing.md)
+- [GuardDuty](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/GuardDuty.md)
 
 ## Deployment & Migration
 - [Migration Strategies: 7R](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Migration-Strategies.md)
@@ -142,7 +142,7 @@
 - [Abuse Team](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Abuse-Team.md)
 
 ## Others
-- GuardDuty, AWS MFA (virtual, hardware, u2f)
+- AWS MFA (virtual, hardware, u2f)
 
 ## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
 
