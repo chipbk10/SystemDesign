@@ -33,7 +33,7 @@
     - Site-to-Site VPN (network-to-network)
     - Client VPN (device-to-network)
 - **AWS Site-to-Site VPN**:
-  - is a managed service that securely connects your on-premises network (or another cloud provider) to your AWS VPC over the public internet using an **IPsec VPN tunnel**.
+  - is a managed service that securely connects your on-premises network (or another cloud provider) to your AWS VPC **over the public internet** using an **IPsec VPN tunnel**.
   - is a backup connectivity when Direct Connect is unavailable.
 - **PrivateLink**:
   - AWS PrivateLink enables private connectivity between VPCs and supported AWS services without traffic traversing the public internet.
