@@ -1,7 +1,7 @@
 ## ✅ Key Components
 
-- **VPC**: The overall network container.
-- **Subnets**: Divide VPC into smaller networks (public or private).
+- **VPC**: The overall network container. Scope: **region (multiple AZs)**
+- **Subnets**: Divide VPC into smaller networks (public or private). Scope: **AZ**
 - **Internet Gateway (IGW)**: Enables internet access for public subnets.
 - **NAT Gateway**: Allows private subnets to access the internet securely.
 - **Route Tables**: Define traffic routing rules.
