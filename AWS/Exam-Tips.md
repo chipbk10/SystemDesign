@@ -18,3 +18,5 @@
 - AWS services that support **reservations** for cost optimization:
   - **Compute**: EC2, ECS, EKS
   - **Databases**: ElastiCache, RDS, Aurora, RedShift, DocumentDB, Neptune, DynamoDB
+- Free AWS Services: IAM, Organizations, Migration Hub, License Manager, AWS Shield Standard 
+
