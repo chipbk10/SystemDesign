@@ -104,6 +104,8 @@
 - [Partner Solutions](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Partner-Solutions.md)
 - [Market](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Market.md)
 - [CAF](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/CAF.md)
+- [Basic Support](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Basic-Support.md)
+- [Developer Support](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Developer-Support.md)
 - [Business Support](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Business-Support.md)
 - [Enterprise Support](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Enterprise-Support.md)
 
