@@ -71,13 +71,21 @@
   - Elastic Load Balancer (ELB), Application Load Balancer (**ALB**), Network Load Balancer (**NLB**), 
     
 ## Monitoring & Management
+
+### Monitoring
 - [X-Ray](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/X-Ray.md)
-- [System Manager](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/System-Manager.md)
 - [CloudTrail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudTrail.md) - default encryption
 - [CloudWatch](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/CloudWatch.md) - default encryption
 - [Config](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Config.md)
 - [Health](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/Health.md)
 - [Service Health Dashboard](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/Service-Health-Dashboard.md)
+  
+### Management  
+- [System Manager](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/Management/System-Manager.md)
+- [Management-Console](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/Management/Management-Console.md)
+- [CLI](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/Management/CLI.md)
+- [SDK](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/Management/SDK.md)
+
 
 ## Security & Compliance
 - [Organizations](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Organizations.md)
