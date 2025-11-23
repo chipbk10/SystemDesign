@@ -54,6 +54,12 @@
 - [Fargate](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Fargate.md) - serverless
 - [LightSail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/LightSail.md)
 
+### Message Services
+- [SNS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/SNS.md)
+- [SQS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/SQS.md)
+- [Amazon MQ](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/Amazon-MQ.md)
+- [Kinesis](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/Kinesis.md)
+
 ### Networking
 - [Networking](https://github.com/chipbk10/SystemDesign/edit/master/AWS/Core-Services/Networking/Networking.md)
   - VPC, Subnet, Internet Gateway, NAT Gateway, Route Table, Security Group, Network ACLs
