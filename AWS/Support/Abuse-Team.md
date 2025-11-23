@@ -1,0 +1,1 @@
+- The **AWS Abuse** team can assist you when AWS resources are used to engage in **abusive behavior**.
