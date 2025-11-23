@@ -20,3 +20,4 @@
   - **Databases**: ElastiCache, RDS, Aurora, RedShift, DocumentDB, Neptune, DynamoDB
 - Free AWS Services: IAM, Organizations, Migration Hub, License Manager, AWS Shield Standard 
 - **Big Data**, Map Reduce, **Hadoop**, Spark: Amazon EMR
+- **Windows Server**: Amazon FSx for Windows File Server
