@@ -61,7 +61,7 @@
 - [Local Zones](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/LocalZones.md)
 - [Route 53](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/Route53.md)
 - [Load Balancer](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/Load-Balancer.md)
-  - Application Load Balancer (**ALB**), Network Load Balancer (**NLB**), **ELB**
+  - Elastic Load Balancer (ELB), Application Load Balancer (**ALB**), Network Load Balancer (**NLB**), 
     
 ## Monitoring & Management
 - [X-Ray](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Monitoring-Management/X-Ray.md)
