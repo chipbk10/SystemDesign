@@ -60,6 +60,7 @@
 - [WaveLength](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/WaveLength.md)
 - [Local Zones](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/LocalZones.md)
 - [Route 53](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/Route53.md)
+- [Global Accelerator](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/Global-Accelerator.md)
 - [Load Balancer](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Networking/Load-Balancer.md)
   - Elastic Load Balancer (ELB), Application Load Balancer (**ALB**), Network Load Balancer (**NLB**), 
     
