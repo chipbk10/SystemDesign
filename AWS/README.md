@@ -86,6 +86,8 @@
 - [Penetration Testing](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Security-Compliance/Penetration-Testing.md)
 
 ## Deployment & Migration
+- [Migration Strategies: 7R](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Migration-Strategies.md)
+  - Retire, Retain, Rehost, Replatform, Relocate, Refactor, Repurchase
 - [Auto Scaling](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Auto-Scaling.md)
 - [CloudFormation](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CloudFormation.md)
 - [OpsWorks](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/OpsWorks.md)
