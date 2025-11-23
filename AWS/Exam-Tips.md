@@ -15,4 +15,6 @@
 - **Standby** = availability (failover).
 - +**10 year**s storage: **Amazon S3 Glacier (or Glacier Deep Archive)**
 - **Block Storage**: **EBS**, **Instance Store**
-- 
+- AWS services that support **reservations** for cost optimization:
+  - **Compute**: EC2, ECS, EKS
+  - **Databases**: ElastiCache, RDS, Aurora, RedShift, DocumentDB, Neptune, DynamoDB
