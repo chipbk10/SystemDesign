@@ -44,7 +44,6 @@
 - [Batch](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/Batch.md)
 - [EventBridge](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/EventBridge.md) - serverless
 - [Step Function](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/Step-Function.md) - serverless
-- [SNS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/SNS.md) - serverless
 - [Glue](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/Glue.md)
 - [EMR](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/EMR.md) - big data, MapReduce, Hadoop
 - [Elastic Beanstalk](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Elastic-Beanstalk.md)
@@ -55,8 +54,8 @@
 - [LightSail](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/LightSail.md)
 
 ### Message Services
-- [SNS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/SNS.md)
-- [SQS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/SQS.md)
+- [SNS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/SNS.md) - serverless
+- [SQS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/SQS.md) - serverless
 - [Amazon MQ](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/Amazon-MQ.md)
 - [Kinesis](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Message/Kinesis.md)
 
