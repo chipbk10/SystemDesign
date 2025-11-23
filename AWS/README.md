@@ -9,6 +9,17 @@
   - Data Center, Availability Zone (AZ), Region, Edge Location (CDN)
 - [Share Responsibility Model](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Cloud-Concept/Share-Responsibility-Model.md)
 
+## Well-Architected Framework
+- [6 Pillars](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Architect)
+  - Operational Excellence (Agility, Automation, Monitoring),
+  - Security,
+  - Reliability (HA, Fault Tolerance),
+  - Performance Efficiency (Elasticity, Scalability),
+  - Cost Optimization (pay-as-you-go),
+  - Sustainability (environment impact)
+- [Principles](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Architect/Principles.md)
+  - High Availability (HA), Agility, Scalability, Fault Tolerance, Elasticity
+
 ## Core Services
 
 ### Database
