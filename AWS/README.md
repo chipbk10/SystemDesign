@@ -104,9 +104,11 @@
 - [Partner Solutions](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Partner-Solutions.md)
 - [Market](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Market.md)
 - [CAF](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/CAF.md)
+- [Business Support](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Business-Support.md)
+- [Enterprise Support](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Enterprise-Support.md)
 
 ## Others
-- OpsWorks, Lightsail, GuardDuty, AWS MFA (virtual, hardware, u2f)
+- GuardDuty, AWS MFA (virtual, hardware, u2f)
 
 ## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
 
