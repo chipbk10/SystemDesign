@@ -142,7 +142,7 @@
 - [Abuse Team](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Abuse-Team.md)
 
 ## Others
-- GuardDuty, AWS MFA (virtual, hardware, u2f), AWS SDK
+- GuardDuty, AWS MFA (virtual, hardware, u2f)
 
 ## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
 
