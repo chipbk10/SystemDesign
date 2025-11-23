@@ -92,6 +92,7 @@
 - [Auto Scaling](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Auto-Scaling.md)
 - [CloudFormation](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CloudFormation.md)
 - [OpsWorks](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/OpsWorks.md)
+- [Equivalent](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Deployment-Migration/Equivalent.md)
   
 ### CI/CD
 - [CodeCommit](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeCommit.md), [CodeDeploy](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodeDeploy.md), [CodePipeline](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Deployment-Migration/CI-CD/CodePipeline.md)
