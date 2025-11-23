@@ -32,6 +32,7 @@
 - [Lambda](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Lambda.md) - serverless
 - [Batch](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/Batch.md)
 - [EventBridge](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/EventBridge.md) - serverless
+- [Step Function](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/Step-Function.md) - serverless
 - [Elastic Beanstalk](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Elastic-Beanstalk.md)
 - [ECR](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/ECR.md)
 - [ECS](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/ECS.md)
