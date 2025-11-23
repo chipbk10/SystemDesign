@@ -46,6 +46,7 @@
 - [Step Function](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/Step-Function.md) - serverless
 - [SNS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/SNS.md) - serverless
 - [Glue](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/Glue.md)
+- [EMR](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Compute/EMR.md) - big data, MapReduce, Hadoop
 - [Elastic Beanstalk](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/Elastic-Beanstalk.md)
 - [ECR](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/ECR.md)
 - [ECS](https://github.com/chipbk10/SystemDesign/tree/master/AWS/Core-Services/Compute/ECS.md)
