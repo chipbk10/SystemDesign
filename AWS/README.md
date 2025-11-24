@@ -29,10 +29,10 @@
 - [DocumentDB](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/DocumentDB.md) - default encryption
 - [Neptune](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Neptune.md) - default encryption
 - [Keyspaces](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Keyspaces.md) - serverless
-- [Redshift](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Redshift.md) - default encryption
+- [Redshift](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Database/Redshift.md)
 
 ### Storage
-- [S3](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/S3.md) - serverless
+- [S3](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/S3.md) - serverless, default encryption
 - [EBS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EBS.md)
 - [EFS](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/EFS.md)
 - [Store Gateway](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Core-Services/Storage/Store-Gateway.md)
