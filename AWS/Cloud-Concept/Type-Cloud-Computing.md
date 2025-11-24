@@ -26,3 +26,5 @@ These three models represent increasing levels of abstraction and reduced operat
 *   **IaaS** → full control, full responsibility
 *   **PaaS** → some control, less responsibility
 *   **SaaS** → minimal control, minimal responsibility
+
+*   **FaaS**: @Todo
