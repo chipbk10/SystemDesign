@@ -142,7 +142,7 @@
 - [Abuse Team](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Support/Abuse-Team.md)
 
 ## Others
-- AWS MFA (virtual, hardware, u2f)
+- AWS MFA (virtual, hardware, u2f), Amazon Kendra, Amazon Comprehend
 
 ## [Terms](https://github.com/chipbk10/SystemDesign/blob/master/AWS/Terms.md)
 
