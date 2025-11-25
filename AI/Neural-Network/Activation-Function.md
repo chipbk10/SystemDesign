@@ -1,0 +1,7 @@
+- **Activation Functions** are like decision-makers in neural network. They decide whether a neuron should "fire" or not, based on the input it receives
+- **Why do we need them?**:
+  - if we only used linear operations (like muliplying and then sum it up), the whole network would just behave like a big **linear equation**. No matter how many layers you add, it could only **straight-line** relationships.
+  - Real-world problems (images, speech, language) are full of curves and complexity. Activation functions introduce **non-linearity**, which lets the network learn patterns that aren’t straight lines—like edges in an image or meaning in a sentence.
+- **Analogy**: think of it this way.
+  - without Activation Functions, your network is like stacking transparent sheets, and it goes flat
+  - with Activation Fucntions, you can bend and twist the sheets, and now you can model complex shapes
