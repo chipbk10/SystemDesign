@@ -1,0 +1,6 @@
+- During **inference** (real-world use), the model just:
+  - takes new input
+  - multiplies by the learned weights
+  - applies activation functions
+  - produces an output fast because no learning happens anymore
+- In short: **inference = using the learned weights to make predictions**
