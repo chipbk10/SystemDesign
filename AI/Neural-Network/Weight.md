@@ -1,0 +1,6 @@
+- Weights tell the network **how important each input is**
+  - Imagine you’re predicting whether someone will buy a product. Inputs could be age, income, and browsing time.
+  - Not all inputs matter equally (e.g., income might matter more than age)
+  - Higher weight means more influence
+- Without weights, every input would contribute equally, which is rarely true in real-world data.
+- Who decide the value of a height? @Todo
