@@ -1,0 +1,4 @@
+- At the start, the weights are random.
+- Through [backpropagation]() and [gradient descent]() the network adjust the weights so predictions become more accurate
+- After training, the **final set of weights** is what defines your trained model. **These weights encode all the patterns the network discovered in the data.**
+- in short: **training = finding the right weights**
