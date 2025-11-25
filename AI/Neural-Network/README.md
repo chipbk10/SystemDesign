@@ -1,0 +1,6 @@
+- Output = **Activation-Function** ( **Sum-Up**[ weight * input ] )
+- Think of it like this:
+  - Inputs: ingredients
+  - Weights: how much of each ingredient you add
+  - Sum: mixing them into one dish
+  - Activation: tasting and deciding if it's good enough to serve
