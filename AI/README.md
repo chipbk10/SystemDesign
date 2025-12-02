@@ -1,2 +1,12 @@
 ## Neural Network
 - [Weight]()
+- [Bias]()
+- [Activation Function]()
+- [Gradient]()
+- [Gradient Descent]()
+- [Forward Propagation]()
+- [Backward Propagation]()
+- [Neural Network]()
+- [Loss Function]()
+- [Inference]()
+- [Training]()
