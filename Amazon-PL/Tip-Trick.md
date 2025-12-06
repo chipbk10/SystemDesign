@@ -1,1 +1,2 @@
 - **Tech Debt** aligns with [Invent And Simplify]() (improving processes), and [Think Big]() (investing in scalable solution or better impacts). It shows a long-term vision but often comes after direct customer value ([Customer Obsession]())
+- **Discover an issue**: uses [Bias for Action]() to alert stakeholders quickly, and most importantly, uses [Earn Trust]() by raising the concern respectfully and privately to the relevant parties first.
