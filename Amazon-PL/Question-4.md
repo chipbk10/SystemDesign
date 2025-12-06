@@ -1,6 +1,6 @@
 ## 🗣️ Scenario: The Data Discrepancy (Testing Trust vs. Detail)
 
-You are reviewing metrics for a new product launch led by a respected, tenured senior engineer. You discover a slight, but consistent, discrepancy in the data, suggesting the customer conversion rate might be 1% lower than reported. The difference is small and difficult to prove, but could impact a multi-million-dollar marketing decision next week.
+You are reviewing metrics for a new product launch led by a respected, tenured senior engineer. You discover a slight, but consistent, discrepancy in the data, suggesting [the customer conversion](https://github.com/chipbk10/SystemDesign/blob/master/Amazon-PL/Customer-Conversion-Rate.md) rate might be 1% lower than reported. The difference is small and difficult to prove, but could impact a multi-million-dollar marketing decision next week.
 
 **Question:** Rank the following actions from most effective to least effective:
 
