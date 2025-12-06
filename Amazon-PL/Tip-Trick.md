@@ -1,1 +1,1 @@
-- **Tech Debt** aligns with [Invent and Simplify]() (improving processes), and [Think Big]() (investing in scalable solution or better impacts). It shows a long-term vision but often comes after direct customer value ([customer obsession]())
+- **Tech Debt** aligns with [Invent And Simplify]() (improving processes), and [Think Big]() (investing in scalable solution or better impacts). It shows a long-term vision but often comes after direct customer value ([Customer Obsession]())
