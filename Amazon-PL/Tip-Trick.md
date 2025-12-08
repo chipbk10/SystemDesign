@@ -7,3 +7,4 @@
 - **never ship a fundamentally broken** to customer. It causes bad user experience (violate [Customer Obsession](), [Earn Trust]())
 - fix the process **incrementally** while still delivering value.
 - looking for existing solution is [Frugality](), by saving time and money
+- ignoring or concealing a problem is violating [Ownership]()
