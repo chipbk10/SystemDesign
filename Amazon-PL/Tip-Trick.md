@@ -1,5 +1,6 @@
 - **Tech Debt** aligns with [Invent And Simplify]() (improving processes), and [Think Big]() (investing in scalable solution or better impacts). It shows a long-term vision but often comes after direct customer value ([Customer Obsession]())
-- **Discover an issue**: uses [Bias for Action]() to alert stakeholders quickly, and most importantly, uses [Earn Trust]() by raising the concern respectfully and privately to **the relevant parties** first. If we publicly escalate a small, unproven issue without attempting to solve it privately first, we **violate** [Earn Trust]()
+- **Discover an issue**: uses [Bias For Action]() to alert stakeholders quickly, and most importantly, uses [Earn Trust]() by raising the concern respectfully and privately to **the relevant parties** first. If we publicly escalate a small, unproven issue without attempting to solve it privately first, we **violate** [Earn Trust]()
 - **Disagreement**: challenge ([Have Backbone]()), respectfully push back with **data or facts** ([Deep Dive]()). Based on the issue's context, it's better to do it **privately** with only **relevant parties**. Or otherwise the public disagrement might lead to uncomfort or embarassement, and it will violate [Earn Trust]()
 - **Quick Action**: uses [Bias for Action](). Normally, it will violate [Dive Deep]() & [Frugality](). While it delivers immediate result, it fails to **thoroughly investigate** the final impact, making a **costly decision** without proper justification.
-- [Frugality]() does not mean avoiding all costs; it means maximizing value.
+- [Frugality](): does not mean avoiding all costs; it means maximizing value.
+- **Delay Launch**: sometimes means lost market opportunity. It violates [Bias For Action]() as **speed matters in business**
