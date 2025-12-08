@@ -9,3 +9,4 @@
 - looking for existing solution is [Frugality](), by saving time and money
 - ignoring or concealing a problem is violating [Ownership]()
 - **hiring exteral contractor** to do some task. It violates the [Hire And Develop The Best]() as we missed an internal training opportunity
+- **ask manager for a decision** violates the [Onwership](). Asking for input is fine, but delegate the decision and solution to the manager
