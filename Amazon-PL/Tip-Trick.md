@@ -5,3 +5,4 @@
 - [Frugality](): does not mean avoiding all costs; it means maximizing value.
 - **Delay Launch**: sometimes means lost market opportunity. It violates [Bias For Action]() as **speed matters in business**
 - **never ship a fundamentally broken** to customer. It causes bad user experience (violate [Customer Obsession](), [Earn Trust]())
+- fix the process **incrementally** while still delivering value.
