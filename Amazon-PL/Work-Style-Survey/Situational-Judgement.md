@@ -1,0 +1,10 @@
+## ⚙️ Situational Judgment / Forced Choice Examples
+
+These questions present two statements (A and B) and ask you to choose which one **describes you better** or which action you would **most likely take.** You are often forced to choose between two seemingly positive traits.
+
+| LP Tested | Question Example | Desired Alignment (Why) |
+| :--- | :--- | :--- |
+| **Bias for Action vs. Dive Deep** | I prefer to launch a product quickly to gather real user feedback, even if it's not perfect (A), OR I ensure every edge case is tested thoroughly before releasing any new product (B). | **Leaning A.** Amazon values iteration and speed. While quality is vital (**Insist on the Highest Standards**), **Bias for Action** often means getting the MVP out quickly to learn. |
+| **Are Right, A Lot vs. Earn Trust** | I value being technically correct in my designs over all else (A), OR I value my peers' trust and respect, even if it means compromising on a technical decision (B). | **Leaning B.** While technical accuracy is good (**Are Right, A Lot**), **Earn Trust** (respect, collaboration, compromise) is often a higher priority in a fast-moving team environment. |
+| **Ownership vs. Frugality** | I feel responsible for tracking and cutting unnecessary cloud costs across the entire team’s infrastructure (A), OR I focus primarily on delivering my features, leaving cost optimization to the finance team (B). | **Leaning A.** **Ownership** means acting on behalf of the whole company, including saving money (**Frugality**), even if it falls outside your primary task. |
+| **Learn and Be Curious vs. Deliver Results**| I prefer to spend time learning a new programming language or tool that could benefit future projects (A), OR I prefer to focus my time on immediately completing the most important current project tasks (B). | **Leaning B.** While learning is key, **Deliver Results** is often the priority. Your learning should be tied to current deliverables or planned innovation, not learning for learning's sake. |
