@@ -4,3 +4,4 @@
 - **Quick Action**: uses [Bias for Action](). Normally, it will violate [Dive Deep]() & [Frugality](). While it delivers immediate result, it fails to **thoroughly investigate** the final impact, making a **costly decision** without proper justification.
 - [Frugality](): does not mean avoiding all costs; it means maximizing value.
 - **Delay Launch**: sometimes means lost market opportunity. It violates [Bias For Action]() as **speed matters in business**
+- **never ship a fundamentally broken** to customer. It causes bad user experience (violate [Customer Obsession](), [Earn Trust]())
