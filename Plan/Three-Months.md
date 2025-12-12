@@ -1,4 +1,4 @@
-# 🗓️ Full 12-Week FAANG Interview Plan (All Easy → Medium/Hard)
+# 🗓️ Full 12-Week FAANG Interview Plan
 
 ---
 
