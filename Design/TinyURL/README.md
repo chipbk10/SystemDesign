@@ -50,7 +50,7 @@
     - for example: ID = 1 -> a, ID = 62 -> 10, ID = 238327 -> zzz
     - however, it's easy to guess. Guessing is possible but not **catastrophic** (links are **public** anyway).
     - We can mitigate predictability. Instead of pure sequential IDs, use:
-      - **Snowflake IDs** (time + machine + sequence → looks random).
+      - **Snowflake IDs** (time + machine + sequence → looks random) - 64 bits ~ 11 characters (base64 encoding)
       - Or **shuffle the ID space** (e.g., apply a reversible hash like XOR with a secret key before encoding).
 
 
