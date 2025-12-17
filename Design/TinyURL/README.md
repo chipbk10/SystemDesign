@@ -46,7 +46,7 @@
 ## on the fly
 - Most sytems (Bitly, TinyURL) generate codes on the fly because:
   - generating on demand + checking for duplicates is simpler and scales well
-  - or we can base62 encoding of an incrementing ID, you don't need randomness or collision checks at all
+  - or **Sequential ID approach** we can base62 encoding of an incrementing ID, you don't need randomness or collision checks at all
     - for example: ID = 1 -> a, ID = 62 -> 10, ID = 238327 -> zzz
     - however, it's easy to guess. Guessing is possible but not **catastrophic** (links are **public** anyway).
     - We can mitigate predictability. Instead of pure sequential IDs, use:
