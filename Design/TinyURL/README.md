@@ -18,7 +18,7 @@
 # Challenges
 
 ## Safe Transmision
-- to attach a long url together with request, we have to **encode** it (replacing special characters like :// . ?)
+- to attach a long url together with request, we have to **encode** it (replacing special characters like :// . ?) - using [URL encoding]()
 
 ## Uniqueness & Consistency
 - Two URLs that look different but mean the same thing (e.g., **http://example.com** vs **http://example.com:80** vs **http://example.com/**) should map to the same **consistent** form.
