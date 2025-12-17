@@ -1,7 +1,11 @@
 - **Encoding** is to convert data from one format to another
-- For example, `base64 encoding` converts a binary sequence into text, where each group of 6 bits is mapped to a character from a set including a-z, A-Z, 0-9, and the symbols + and /.
-- others: `ascii encoding`, `utf-8 encoding`, `iso-8859 encoding`
-- applications: convert a binary data (e.g., an image) to a text to be imbeded in a json file
+
+- ✅ Common Encoding Types in Web Context
+  - **URL** Encoding (Percent-Encoding) → For query strings and form data.
+  - **Base64** Encoding → For binary data in text-based protocols (e.g., sending images in JSON).
+  - **HTML Entity** Encoding → For special characters in HTML (< → &lt;).
+  - **UTF-8** Encoding → For international characters.
+
 - **Decoding** reverses the process, converting the encoded data back to its original form
 
 
