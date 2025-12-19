@@ -1,0 +1,4 @@
+- each link has an expiration time
+- we create a service to do a lazy cleanup. This service can run periodically (or can be scheduled when the traffic is expected to be low) to remove expired links from our storage and cache
+- after removing an expired link, we can put the key back in our DB to be reused
+- Note that storage is getting cheap, we can decide to keep links forever
