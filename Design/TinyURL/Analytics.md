@@ -1,0 +1,3 @@
+- number of clicks, user locations, date & time of access, browser (or platform)
+- where do we store these statistics?
+- @Todo
