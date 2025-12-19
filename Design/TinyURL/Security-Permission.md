@@ -1,0 +1,5 @@
+- Can users create private URLs or allow a particular set of users to access a URL?
+- We can store persmision level (public/private) with each URL in the database.
+- We can also create a separate table to store UserIDs that have permission to see a specific URL
+- If the user doesn't have permission and tries to access a URL, we can send an error (HTTP 401) back.
+- @Todo: SQL or No-SQL in this case?
