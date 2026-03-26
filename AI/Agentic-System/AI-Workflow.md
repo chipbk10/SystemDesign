@@ -1,0 +1,2 @@
+**AI Workflow**  
+- An AI Workflow is a structured, pre-defined sequence of steps where one or more LLM calls are combined with other actions in a fixed order. For example, it might first classify the user's question, then search a database, then summarize the results, and finally format a nice response — all following the exact same path every time. Workflows are reliable and efficient for repetitive, predictable tasks, but they are rigid and cannot adapt if something unexpected happens during execution.
