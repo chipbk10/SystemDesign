@@ -20,5 +20,11 @@
 ## Tools
 - `TOOLS.md` - notes about available tools, usage instructions, environment details, local configuration, and API hints
 
+## Skills
+- `SKILLS.md` - reusable playbooks that the agent can load on-demand
+
 ## Inital Setup
 - `BOOTSTRAP.md` - initial setup instructions (only used for new agents)
+
+## Session
+- every conversation (DM, group, cron job, sub-agent) runs in its own isolated session. History is stored as append-only.jsonl files
