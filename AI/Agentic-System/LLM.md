@@ -1,0 +1,2 @@
+**Pure LLM**  
+- A Pure LLM is a large neural network trained to predict the next word (or token) one by one based on the input text it receives. It generates responses purely from patterns it learned during training, without any external help, memory of past conversations, or ability to access real-time information. This makes it excellent at creative writing, translation, or answering general knowledge questions, but it is completely "frozen in time" and cannot know anything that happened after its training cutoff.
