@@ -1,0 +1,2 @@
+**AI Agent**  
+- An AI Agent is an autonomous system powered by an LLM that can think, plan, decide which tools to use, and take multiple steps on its own to achieve a goal. Instead of following a fixed script, it observes the results of its actions, reflects on them, and adjusts its plan — sometimes looping several times until the task is complete. This makes agents flexible and powerful for complex, open-ended problems, such as planning a trip, debugging code, or researching current events, where the exact steps are not known in advance.
