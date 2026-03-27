@@ -16,3 +16,7 @@ They act as "playbooks" that guide the agent step-by-step without requiring the 
 Skills allow users to extend the agent’s capabilities easily and consistently. Examples include “github-pr-review”, “trip-planning”, “daily-journal”, or “email-summarization”. 
 
 You do **not need to mention specific tool names** in a skill — the agent intelligently selects the appropriate tools on its own.
+
+### [Fallback](https://github.com/chipbk10/SystemDesign/edit/master/AI/OpenClaw/Architecture/Skills/Fallback.md)
+
+What happens when no suitable skill/tool is found
