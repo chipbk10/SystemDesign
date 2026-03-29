@@ -1,3 +1,3 @@
 # Claude
 
-## [Products](https://github.com/chipbk10/SystemDesign/edit/master/AI/Claude/PRODUCTS.md)
+## [Products](https://github.com/chipbk10/SystemDesign/blob/master/AI/Claude/PRODUCTS.md)
