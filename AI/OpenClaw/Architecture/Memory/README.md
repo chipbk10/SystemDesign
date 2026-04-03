@@ -1,3 +1,6 @@
 # Memory
 
-- @Todo
+- `memory flush`
+- `compaction`
+- `summarization`
+- `context window`
