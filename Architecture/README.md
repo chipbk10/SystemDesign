@@ -5,3 +5,7 @@
 - [API vs SDK](https://github.com/chipbk10/SystemDesign/blob/master/Architecture/API-VS-SDK.md)
 - [CLI](https://github.com/chipbk10/SystemDesign/blob/master/Architecture/CLI.md)
 
+### Authentication
+- @Todo: API key
+- @Todo: OAuth
+
