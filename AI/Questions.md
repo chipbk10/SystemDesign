@@ -1,0 +1,1 @@
+- I have a useful script that I want the agent to run it when doing a task. Is this script considered as a tool?
