@@ -17,3 +17,11 @@
 
 * Flexible inputs: GenAI is no longer text-only. Modern systems are natively multimodal, meaning they can directly accept, understand, and combine text, images, video, and audio simultaneously.
 
+## Questions:
+
+### Why is it called Generative AI?
+* It is called Generative AI because its primary function is to generate new, original content rather than simply analyzing, classifying, or predicting existing data.
+* Here is how it compares to older AI:
+
+  ** **Traditional AI**: Looks at data to spot trends, detect fraud, or make decisions (e.g., recommending a movie).
+  ** **Generative AI**: Analyzes massive datasets to learn underlying patterns, then uses that knowledge to "create" something entirely new—like text, images, music, code, or videos
