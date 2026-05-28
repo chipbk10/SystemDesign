@@ -29,6 +29,8 @@ For complex, highly unique bugs that simple script patterns cannot fix, the agen
 * File Isolation: To prevent Git merge conflicts and file corruption, the agent groups errors by file boundaries and spins up parallel pipeline workers. Each worker owns specific files or modules.
 * Micro-Batches: Inside a worker, errors are sent to the LLM in small batches (e.g., 5 errors at a time). This provides the LLM with enough local context to see how nearby lines interact while keeping the token count minimal.
 * Multi-Model Swap: The agent swaps between models to control budgets. Simple syntax fixes go to ultra-cheap, fast models (e.g., GPT-4o-mini), while complex architectural bugs are routed to heavy-duty models (e.g., Claude 3.5 Sonnet).
+  
+  ** The agent classifies tasks using tool error IDs (syntax vs. architecture) and context scope (single file vs. cross-repo files). For uncertain cases, it uses a fail-safe escalation loop, starting with the cheapest model and upgrading to the premium model only when a compile failure proves it is necessary. 
 
 ### Step 4: Self-Healing & Validation Loop
 
