@@ -24,10 +24,3 @@ Turning “unknown weaknesses” into “known weaknesses” and fixing them bef
 **Famous Principle**:  
 “The best way to avoid failure is to fail constantly — but on your own terms.”
 
----
-
-This is one of the more advanced and interesting SRE practices.
-
-Would you like a clean **documentation summary** for this example, or shall we go to the **next example**?  
-
-Reply with **“summary”** or **“next”**.
