@@ -2,3 +2,5 @@
 - **OpenTelemetry**: distributed tracing to a user's session, based on `trace_id`
 - **Sentry**: capture the exact line of code (e.g., Javascript) that crashed, along with a `breadcrumbs` log showing the last 10 actions the user took before the crash
 - **Gafana**: visualise the metrics from **Prometheus** and tracing data from **OpenTelemetry**
+- **Service Mesh**: is a dedicated infrastructure layer that controls and manages communication between different microservices in an application. It removes networking, security, and observability logic from the application code, allowing developers to focus solely on business logic.
+  - **Istio**: An open-source powerhouse deployed alongside Python services to handle **load balancing**, **mTLS**, **zero-trust authorization**, **rate limiting** and **observability**
