@@ -1,0 +1,4 @@
+- **Prometheus**: measure metrics (e.g., loading time, CPU usage, number of accesses, etc.)
+- **OpenTelemetry**: distributed tracing to a user's session, based on `trace_id`
+- **Sentry**: capture the exact line of code (e.g., Javascript) that crashed, along with a `breadcrumbs` log showing the last 10 actions the user took before the crash
+- **Gafana**: visualise the metrics from **Prometheus** and tracing data from **OpenTelemetry**
